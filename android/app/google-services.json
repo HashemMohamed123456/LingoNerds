@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "468537640048",
+    "project_id": "lingo2-79203",
+    "storage_bucket": "lingo2-79203.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468537640048:android:7423eb6c58989b4e4fe0b5",
+        "android_client_info": {
+          "package_name": "com.exa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQrQSfbVhTrACV6c21_qnlSgG-zSYNCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468537640048:android:dc3a84b2d2ab2c9b4fe0b5",
+        "android_client_info": {
+          "package_name": "com.example.lingonerds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQrQSfbVhTrACV6c21_qnlSgG-zSYNCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
