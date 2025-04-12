@@ -1,8 +1,11 @@
 import 'dart:async';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:lingonerds/core/firebase/firestore_handler.dart';
 import 'package:lingonerds/core/routes/routes.dart';
 import 'package:lingonerds/core/themes/app_themes.dart';
+import 'package:lingonerds/view_model/data/local/local_data.dart';
 class LingoSplashScreen extends StatefulWidget {
   const LingoSplashScreen({super.key});
 
@@ -11,9 +14,10 @@ class LingoSplashScreen extends StatefulWidget {
 }
 
 class _LingoSplashScreenState extends State<LingoSplashScreen> with SingleTickerProviderStateMixin{
+  bool isLoggedIn=LocalData.get(key:"isLoggedIn")??false;
   late AnimationController _controller;
   late Animation<double> _opacityAnimation;
-
+  var languageLevel=FireStoreHandler.getUserField(FirebaseAuth.instance.currentUser!.uid,"LanguageLevel");
   @override
   void initState() {
     super.initState();
@@ -29,9 +33,21 @@ class _LingoSplashScreenState extends State<LingoSplashScreen> with SingleTicker
 
     // Navigate to HomeScreen after 3 seconds
     Timer(Duration(seconds: 5), () {
-      Navigator.pushNamed(
-        context,
-        ScreensRoutes.loginScreenRoute);
+      if (isLoggedIn) {
+        if (languageLevel != null) {
+          // If language level exists, navigate to the main home screen
+          Navigator.pushNamedAndRemoveUntil(
+              context, ScreensRoutes.mainHomeScreen, (route) => false);
+        } else {
+          // If language level is null, navigate to the language test screen
+          Navigator.pushNamedAndRemoveUntil(
+              context, ScreensRoutes.languageLevelTestScreenRoute, (route) => false);
+        }
+      } else {
+        // If user is not logged in, navigate to the login screen
+        Navigator.pushNamedAndRemoveUntil(
+            context, ScreensRoutes.loginScreenRoute, (route) => false);
+      }
     });
   }
 
@@ -48,7 +64,6 @@ class _LingoSplashScreenState extends State<LingoSplashScreen> with SingleTicker
         image: DecorationImage(image: AssetImage('assets/images/scaffold.png'))
       ),
       child: Scaffold(
-        backgroundColor:Colors.white.withOpacity(0.52),
         body: Center(
           child: FadeTransition(
             opacity: _opacityAnimation,

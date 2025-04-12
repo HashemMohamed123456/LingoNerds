@@ -2,12 +2,21 @@ import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:lingonerds/view_model/data/bloc/bloc_observer.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-
+import 'package:lingonerds/view_model/data/local/local_data.dart';
 import 'core/routes/generated_routes.dart';
 import 'core/routes/routes.dart';
 import 'core/themes/app_themes.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
 
-void main() {
+
+
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+  await LocalData.init();
   Bloc.observer = MyBlocObserver();
   runApp(const MyApp());
 }
