@@ -4,121 +4,241 @@
       "questions": {
         "q1": {
           "question": "She ___ to school every day.",
-          "options": [
-            "go",
-            "goes",
-            "going",
-            "gone"
-          ],
+          "options": ["go", "goes", "going", "gone"],
           "answer": "goes",
+          "type": "grammar",
           "difficulty": "easy",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q2": {
           "question": "Which word means 'a place to live'?",
-          "options": [
-            "home",
-            "food",
-            "car",
-            "water"
-          ],
+          "options": ["home", "food", "car", "water"],
           "answer": "home",
+          "type": "vocabulary",
           "difficulty": "easy",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q3": {
           "question": "They ___ coffee in the morning.",
-          "options": [
-            "drink",
-            "drinks",
-            "drinking",
-            "drunk"
-          ],
+          "options": ["drink", "drinks", "drinking", "drunk"],
           "answer": "drink",
+          "type": "grammar",
           "difficulty": "easy",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q4": {
           "question": "What is the opposite of 'big'?",
-          "options": [
-            "small",
-            "tiny",
-            "huge",
-            "massive"
-          ],
+          "options": ["small", "tiny", "huge", "massive"],
           "answer": "small",
+          "type": "vocabulary",
           "difficulty": "easy",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q5": {
           "question": "What is a synonym for 'happy'?",
-          "options": [
-            "sad",
-            "joyful",
-            "angry",
-            "tired"
-          ],
+          "options": ["sad", "joyful", "angry", "tired"],
           "answer": "joyful",
+          "type": "vocabulary",
           "difficulty": "easy",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q6": {
           "question": "They ___ at home now.",
-          "options": [
-            "is",
-            "are",
-            "was",
-            "were"
-          ],
+          "options": ["is", "are", "was", "were"],
           "answer": "are",
+          "type": "grammar",
           "difficulty": "easy",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q7": {
           "question": "He ___ very fast.",
-          "options": [
-            "run",
-            "runs",
-            "running",
-            "ran"
-          ],
+          "options": ["run", "runs", "running", "ran"],
           "answer": "runs",
+          "type": "grammar",
           "difficulty": "easy",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q8": {
           "question": "I ___ a teacher.",
-          "options": [
-            "am",
-            "is",
-            "are",
-            "be"
-          ],
+          "options": ["am", "is", "are", "be"],
           "answer": "am",
+          "type": "grammar",
           "difficulty": "easy",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q9": {
           "question": "What is the plural of 'child'?",
-          "options": [
-            "childs",
-            "children",
-            "childes",
-            "childing"
-          ],
+          "options": ["childs", "children", "childes", "childing"],
           "answer": "children",
+          "type": "vocabulary",
           "difficulty": "easy",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q10": {
           "question": "Which word is a color?",
-          "options": [
-            "blue",
-            "run",
-            "jump",
-            "talk"
-          ],
+          "options": ["blue", "run", "jump", "talk"],
           "answer": "blue",
+          "type": "vocabulary",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q11": {
+          "question": "We ___ three apples.",
+          "options": ["has", "have", "is", "are"],
+          "answer": "have",
+          "type": "grammar",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q12": {
+          "question": "Which word means 'not cold'?",
+          "options": ["hot", "ice", "snow", "freezing"],
+          "answer": "hot",
+          "type": "vocabulary",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q13": {
+          "question": "She ___ a book every week.",
+          "options": ["read", "reads", "reading", "red"],
+          "answer": "reads",
+          "type": "grammar",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q14": {
+          "question": "What is the opposite of 'day'?",
+          "options": ["night", "sun", "light", "morning"],
+          "answer": "night",
+          "type": "vocabulary",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q15": {
+          "question": "They ___ playing football.",
+          "options": ["is", "am", "are", "be"],
+          "answer": "are",
+          "type": "grammar",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q16": {
+          "question": "Which word is an animal?",
+          "options": ["cat", "table", "chair", "water"],
+          "answer": "cat",
+          "type": "vocabulary",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q17": {
+          "question": "I ___ to the store yesterday.",
+          "options": ["go", "went", "gone", "going"],
+          "answer": "went",
+          "type": "grammar",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q18": {
+          "question": "What is a synonym for 'small'?",
+          "options": ["little", "big", "huge", "large"],
+          "answer": "little",
+          "type": "vocabulary",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q19": {
+          "question": "You ___ my friend.",
+          "options": ["is", "am", "are", "be"],
+          "answer": "are",
+          "type": "grammar",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q20": {
+          "question": "Which word is a fruit?",
+          "options": ["apple", "desk", "car", "house"],
+          "answer": "apple",
+          "type": "vocabulary",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q21": {
+          "question": "She ___ not like coffee.",
+          "options": ["do", "does", "doing", "done"],
+          "answer": "does",
+          "type": "grammar",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q22": {
+          "question": "What is the opposite of 'happy'?",
+          "options": ["sad", "joyful", "excited", "lively"],
+          "answer": "sad",
+          "type": "vocabulary",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q23": {
+          "question": "We ___ to the park every Sunday.",
+          "options": ["go", "goes", "going", "gone"],
+          "answer": "go",
+          "type": "grammar",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q24": {
+          "question": "Which word is a body part?",
+          "options": ["hand", "tree", "car", "book"],
+          "answer": "hand",
+          "type": "vocabulary",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q25": {
+          "question": "It ___ raining now.",
+          "options": ["is", "am", "are", "be"],
+          "answer": "is",
+          "type": "grammar",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q26": {
+          "question": "What is a synonym for 'smart'?",
+          "options": ["intelligent", "dull", "slow", "stupid"],
+          "answer": "intelligent",
+          "type": "vocabulary",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q27": {
+          "question": "They ___ not here yesterday.",
+          "options": ["was", "were", "is", "are"],
+          "answer": "were",
+          "type": "grammar",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q28": {
+          "question": "Which word is a number?",
+          "options": ["five", "tree", "water", "sky"],
+          "answer": "five",
+          "type": "vocabulary",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q29": {
+          "question": "She ___ a beautiful dress.",
+          "options": ["wear", "wears", "wearing", "worn"],
+          "answer": "wears",
+          "type": "grammar",
+          "difficulty": "easy",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q30": {
+          "question": "What is the opposite of 'fast'?",
+          "options": ["slow", "quick", "rapid", "speedy"],
+          "answer": "slow",
+          "type": "vocabulary",
           "difficulty": "easy",
           "createdAt": "2023-10-01T12:00:00Z"
         }
@@ -128,121 +248,241 @@
       "questions": {
         "q1": {
           "question": "I ___ my homework before dinner.",
-          "options": [
-            "finish",
-            "finishing",
-            "finished",
-            "was finishing"
-          ],
+          "options": ["finish", "finishing", "finished", "was finishing"],
           "answer": "finished",
+          "type": "grammar",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q2": {
           "question": "They ___ TV when I arrived.",
-          "options": [
-            "watched",
-            "watching",
-            "were watching",
-            "watch"
-          ],
+          "options": ["watched", "watching", "were watching", "watch"],
           "answer": "were watching",
+          "type": "grammar",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q3": {
           "question": "Which word means 'to get up in the morning'?",
-          "options": [
-            "wake up",
-            "sleep",
-            "eat",
-            "run"
-          ],
+          "options": ["wake up", "sleep", "eat", "run"],
           "answer": "wake up",
+          "type": "vocabulary",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q4": {
           "question": "Which word means 'not heavy'?",
-          "options": [
-            "light",
-            "dark",
-            "big",
-            "long"
-          ],
+          "options": ["light", "dark", "big", "long"],
           "answer": "light",
+          "type": "vocabulary",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q5": {
           "question": "What is a synonym for 'fast'?",
-          "options": [
-            "quick",
-            "slow",
-            "tired",
-            "boring"
-          ],
+          "options": ["quick", "slow", "tired", "boring"],
           "answer": "quick",
+          "type": "vocabulary",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q6": {
           "question": "While I ___, the phone rang.",
-          "options": [
-            "cooked",
-            "was cooking",
-            "cooking",
-            "cook"
-          ],
+          "options": ["cooked", "was cooking", "cooking", "cook"],
           "answer": "was cooking",
+          "type": "grammar",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q7": {
           "question": "We ___ to the park last weekend.",
-          "options": [
-            "go",
-            "gone",
-            "went",
-            "going"
-          ],
+          "options": ["go", "gone", "went", "going"],
           "answer": "went",
+          "type": "grammar",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q8": {
           "question": "Which word is related to cooking?",
-          "options": [
-            "bake",
-            "drive",
-            "read",
-            "paint"
-          ],
+          "options": ["bake", "drive", "read", "paint"],
           "answer": "bake",
+          "type": "vocabulary",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q9": {
           "question": "Which is a type of transport?",
-          "options": [
-            "car",
-            "apple",
-            "table",
-            "chair"
-          ],
+          "options": ["car", "apple", "table", "chair"],
           "answer": "car",
+          "type": "vocabulary",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q10": {
           "question": "She ___ to the store yesterday.",
-          "options": [
-            "goes",
-            "going",
-            "went",
-            "gone"
-          ],
+          "options": ["goes", "going", "went", "gone"],
           "answer": "went",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q11": {
+          "question": "What is the past tense of 'eat'?",
+          "options": ["ate", "eaten", "eating", "eat"],
+          "answer": "ate",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q12": {
+          "question": "Which word means 'a person who teaches'?",
+          "options": ["teacher", "doctor", "driver", "cook"],
+          "answer": "teacher",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q13": {
+          "question": "I ___ already ___ my lunch.",
+          "options": ["have, eaten", "has, eaten", "had, eaten", "am, eating"],
+          "answer": "have, eaten",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q14": {
+          "question": "What is a synonym for 'beautiful'?",
+          "options": ["pretty", "ugly", "plain", "ordinary"],
+          "answer": "pretty",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q15": {
+          "question": "They ___ never ___ to Paris.",
+          "options": ["have, been", "has, been", "had, been", "are, being"],
+          "answer": "have, been",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q16": {
+          "question": "Which word means 'to make something clean'?",
+          "options": ["wash", "dirty", "break", "lose"],
+          "answer": "wash",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q17": {
+          "question": "She ___ her keys before leaving.",
+          "options": ["checked", "check", "checking", "checks"],
+          "answer": "checked",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q18": {
+          "question": "What is the opposite of 'expensive'?",
+          "options": ["cheap", "costly", "valuable", "pricey"],
+          "answer": "cheap",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q19": {
+          "question": "We ___ for the bus when it started to rain.",
+          "options": ["waited", "were waiting", "waiting", "wait"],
+          "answer": "were waiting",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q20": {
+          "question": "Which word means 'a place where you borrow books'?",
+          "options": ["library", "school", "hospital", "restaurant"],
+          "answer": "library",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q21": {
+          "question": "He ___ his homework before going out.",
+          "options": ["finished", "finish", "finishing", "finishes"],
+          "answer": "finished",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q22": {
+          "question": "What is a synonym for 'difficult'?",
+          "options": ["hard", "easy", "simple", "light"],
+          "answer": "hard",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q23": {
+          "question": "They ___ already ___ the movie.",
+          "options": ["have, seen", "has, seen", "had, seen", "are, seeing"],
+          "answer": "have, seen",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q24": {
+          "question": "Which word means 'to move through water'?",
+          "options": ["swim", "run", "fly", "walk"],
+          "answer": "swim",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q25": {
+          "question": "She ___ to the party if she has time.",
+          "options": ["will go", "goes", "went", "going"],
+          "answer": "will go",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q26": {
+          "question": "What is the opposite of 'always'?",
+          "options": ["never", "often", "sometimes", "usually"],
+          "answer": "never",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q27": {
+          "question": "I ___ my keys when I was cleaning.",
+          "options": ["found", "find", "finding", "finds"],
+          "answer": "found",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q28": {
+          "question": "Which word means 'a person who travels'?",
+          "options": ["traveler", "teacher", "doctor", "driver"],
+          "answer": "traveler",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q29": {
+          "question": "They ___ to London next month.",
+          "options": ["will travel", "travel", "traveled", "traveling"],
+          "answer": "will travel",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q30": {
+          "question": "What is a synonym for 'angry'?",
+          "options": ["mad", "happy", "calm", "peaceful"],
+          "answer": "mad",
+          "type": "vocabulary",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         }
@@ -252,121 +492,241 @@
       "questions": {
         "q1": {
           "question": "I ___ to Italy last year.",
-          "options": [
-            "have been",
-            "went",
-            "has gone",
-            "go"
-          ],
+          "options": ["have been", "went", "has gone", "go"],
           "answer": "went",
+          "type": "grammar",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q2": {
           "question": "Which word is related to 'salary'?",
-          "options": [
-            "income",
-            "job",
-            "office",
-            "career"
-          ],
+          "options": ["income", "job", "office", "career"],
           "answer": "income",
+          "type": "vocabulary",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q3": {
           "question": "What is a synonym for 'employer'?",
-          "options": [
-            "boss",
-            "employee",
-            "worker",
-            "manager"
-          ],
+          "options": ["boss", "employee", "worker", "manager"],
           "answer": "boss",
+          "type": "vocabulary",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q4": {
           "question": "He ___ just ___ the door.",
-          "options": [
-            "has, closed",
-            "have, closed",
-            "is, closing",
-            "was, closing"
-          ],
+          "options": ["has, closed", "have, closed", "is, closing", "was, closing"],
           "answer": "has, closed",
+          "type": "grammar",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q5": {
           "question": "Which word means 'to leave a job'?",
-          "options": [
-            "resign",
-            "hire",
-            "promote",
-            "work"
-          ],
+          "options": ["resign", "hire", "promote", "work"],
           "answer": "resign",
+          "type": "vocabulary",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q6": {
           "question": "We ___ to the new restaurant yet.",
-          "options": [
-            "haven't been",
-            "hasn't been",
-            "didn't go",
-            "aren't going"
-          ],
+          "options": ["haven't been", "hasn't been", "didn't go", "aren't going"],
           "answer": "haven't been",
+          "type": "grammar",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q7": {
           "question": "She ___ already ___ her homework.",
-          "options": [
-            "has, finished",
-            "have, finished",
-            "is, finishing",
-            "was, finishing"
-          ],
+          "options": ["has, finished", "have, finished", "is, finishing", "was, finishing"],
           "answer": "has, finished",
+          "type": "grammar",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q8": {
           "question": "They ___ never ___ sushi before.",
-          "options": [
-            "have, eaten",
-            "has, eaten",
-            "are, eating",
-            "were, eating"
-          ],
+          "options": ["have, eaten", "has, eaten", "are, eating", "were, eating"],
           "answer": "have, eaten",
+          "type": "grammar",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q9": {
           "question": "What does 'colleague' mean?",
-          "options": [
-            "coworker",
-            "boss",
-            "client",
-            "manager"
-          ],
+          "options": ["coworker", "boss", "client", "manager"],
           "answer": "coworker",
+          "type": "vocabulary",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q10": {
           "question": "What is the opposite of 'full-time'?",
-          "options": [
-            "part-time",
-            "overtime",
-            "flexible",
-            "temporary"
-          ],
+          "options": ["part-time", "overtime", "flexible", "temporary"],
           "answer": "part-time",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q11": {
+          "question": "By the time we arrived, the movie ___ already ___.",
+          "options": ["had, started", "has, started", "was, starting", "is, starting"],
+          "answer": "had, started",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q12": {
+          "question": "Which word means 'a formal meeting for discussion'?",
+          "options": ["conference", "party", "dinner", "game"],
+          "answer": "conference",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q13": {
+          "question": "If it rains, we ___ cancel the picnic.",
+          "options": ["will", "would", "should", "might"],
+          "answer": "will",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q14": {
+          "question": "What is a synonym for 'intelligent'?",
+          "options": ["smart", "dull", "stupid", "slow"],
+          "answer": "smart",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q15": {
+          "question": "She ___ her degree by next year.",
+          "options": ["will have completed", "will complete", "completed", "completes"],
+          "answer": "will have completed",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q16": {
+          "question": "Which word means 'to make a formal request'?",
+          "options": ["apply", "reject", "ignore", "accept"],
+          "answer": "apply",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q17": {
+          "question": "They ___ for the company since 2010.",
+          "options": ["have worked", "has worked", "worked", "work"],
+          "answer": "have worked",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q18": {
+          "question": "What is the opposite of 'increase'?",
+          "options": ["decrease", "rise", "grow", "expand"],
+          "answer": "decrease",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q19": {
+          "question": "If I ___ you, I would take the job.",
+          "options": ["were", "am", "was", "be"],
+          "answer": "were",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q20": {
+          "question": "Which word means 'a person who applies for a job'?",
+          "options": ["candidate", "employer", "manager", "boss"],
+          "answer": "candidate",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q21": {
+          "question": "She ___ to the meeting if she had known about it.",
+          "options": ["would have gone", "would go", "will go", "went"],
+          "answer": "would have gone",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q22": {
+          "question": "What is a synonym for 'consequently'?",
+          "options": ["therefore", "however", "although", "because"],
+          "answer": "therefore",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q23": {
+          "question": "He ___ his mind before we arrived.",
+          "options": ["had changed", "has changed", "changed", "was changing"],
+          "answer": "had changed",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q24": {
+          "question": "Which word means 'to examine in detail'?",
+          "options": ["analyze", "ignore", "overlook", "simplify"],
+          "answer": "analyze",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q25": {
+          "question": "We ___ the project by next month.",
+          "options": ["will have finished", "will finish", "finished", "finish"],
+          "answer": "will have finished",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q26": {
+          "question": "What is a synonym for 'meticulous'?",
+          "options": ["careful", "careless", "sloppy", "hasty"],
+          "answer": "careful",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q27": {
+          "question": "If I ___ harder, I would have passed the exam.",
+          "options": ["had studied", "studied", "have studied", "study"],
+          "answer": "had studied",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q28": {
+          "question": "Which word means 'to formally approve'?",
+          "options": ["ratify", "reject", "deny", "oppose"],
+          "answer": "ratify",
+          "type": "vocabulary",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q29": {
+          "question": "She ___ her presentation by tomorrow.",
+          "options": ["will have prepared", "will prepare", "prepared", "prepares"],
+          "answer": "will have prepared",
+          "type": "grammar",
+          "difficulty": "medium",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q30": {
+          "question": "What is the opposite of 'beneficial'?",
+          "options": ["harmful", "helpful", "useful", "advantageous"],
+          "answer": "harmful",
+          "type": "vocabulary",
           "difficulty": "medium",
           "createdAt": "2023-10-01T12:00:00Z"
         }
@@ -376,121 +736,241 @@
       "questions": {
         "q1": {
           "question": "If I ___ you, I would apologize.",
-          "options": [
-            "am",
-            "were",
-            "was",
-            "be"
-          ],
+          "options": ["am", "were", "was", "be"],
           "answer": "were",
+          "type": "grammar",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q2": {
           "question": "What is the opposite of 'generous'?",
-          "options": [
-            "selfish",
-            "kind",
-            "giving",
-            "charitable"
-          ],
+          "options": ["selfish", "kind", "giving", "charitable"],
           "answer": "selfish",
+          "type": "vocabulary",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q3": {
           "question": "What is a synonym for 'exhausted'?",
-          "options": [
-            "tired",
-            "energetic",
-            "active",
-            "lively"
-          ],
+          "options": ["tired", "energetic", "active", "lively"],
           "answer": "tired",
+          "type": "vocabulary",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q4": {
           "question": "Which word means 'to make something better'?",
-          "options": [
-            "improve",
-            "worsen",
-            "damage",
-            "break"
-          ],
+          "options": ["improve", "worsen", "damage", "break"],
           "answer": "improve",
+          "type": "vocabulary",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q5": {
           "question": "What is a synonym for 'ambiguous'?",
-          "options": [
-            "unclear",
-            "clear",
-            "obvious",
-            "certain"
-          ],
+          "options": ["unclear", "clear", "obvious", "certain"],
           "answer": "unclear",
+          "type": "vocabulary",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q6": {
           "question": "If I ___ known, I would have helped.",
-          "options": [
-            "had",
-            "have",
-            "was",
-            "were"
-          ],
+          "options": ["had", "have", "was", "were"],
           "answer": "had",
+          "type": "grammar",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q7": {
           "question": "Which word means 'to refuse to accept'?",
-          "options": [
-            "reject",
-            "accept",
-            "approve",
-            "agree"
-          ],
+          "options": ["reject", "accept", "approve", "agree"],
           "answer": "reject",
+          "type": "vocabulary",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q8": {
           "question": "She ___ have finished the report by now.",
-          "options": [
-            "must",
-            "should",
-            "could",
-            "would"
-          ],
+          "options": ["must", "should", "could", "would"],
           "answer": "must",
+          "type": "grammar",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q9": {
           "question": "If it rains, we ___ cancel the picnic.",
-          "options": [
-            "will",
-            "would",
-            "should",
-            "might"
-          ],
+          "options": ["will", "would", "should", "might"],
           "answer": "will",
+          "type": "grammar",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q10": {
           "question": "He ___ have taken the keys; I saw him leave.",
-          "options": [
-            "can't",
-            "mustn't",
-            "shouldn't",
-            "won't"
-          ],
+          "options": ["can't", "mustn't", "shouldn't", "won't"],
           "answer": "can't",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q11": {
+          "question": "Under no circumstances ___ late.",
+          "options": ["should you be", "you should be", "you be should", "be you should"],
+          "answer": "should you be",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q12": {
+          "question": "Which word means 'to express disapproval'?",
+          "options": ["criticize", "praise", "compliment", "approve"],
+          "answer": "criticize",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q13": {
+          "question": "Had I known, I ___ differently.",
+          "options": ["would have acted", "would act", "will act", "acted"],
+          "answer": "would have acted",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q14": {
+          "question": "What is a synonym for 'ubiquitous'?",
+          "options": ["everywhere", "nowhere", "rare", "scarce"],
+          "answer": "everywhere",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q15": {
+          "question": "Never before ___ such a sight.",
+          "options": ["have I seen", "I have seen", "I saw", "I had seen"],
+          "answer": "have I seen",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q16": {
+          "question": "Which word means 'to make something less severe'?",
+          "options": ["alleviate", "aggravate", "worsen", "intensify"],
+          "answer": "alleviate",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q17": {
+          "question": "Not until the end ___ the truth.",
+          "options": ["did she discover", "she discovered", "she had discovered", "she discovers"],
+          "answer": "did she discover",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q18": {
+          "question": "What is a synonym for 'esoteric'?",
+          "options": ["obscure", "common", "familiar", "simple"],
+          "answer": "obscure",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q19": {
+          "question": "Only after the meeting ___ the decision.",
+          "options": ["did they make", "they made", "they had made", "they make"],
+          "answer": "did they make",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q20": {
+          "question": "What is the opposite of 'ephemeral'?",
+          "options": ["permanent", "temporary", "fleeting", "brief"],
+          "answer": "permanent",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q21": {
+          "question": "Rarely ___ such dedication.",
+          "options": ["have I seen", "I have seen", "I saw", "I had seen"],
+          "answer": "have I seen",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q22": {
+          "question": "Which word means 'to make something unclear'?",
+          "options": ["obscure", "clarify", "explain", "illuminate"],
+          "answer": "obscure",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q23": {
+          "question": "No sooner ___ than the phone rang.",
+          "options": ["had I arrived", "I had arrived", "I arrived", "arrived I"],
+          "answer": "had I arrived",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q24": {
+          "question": "What is a synonym for 'verbose'?",
+          "options": ["wordy", "concise", "brief", "short"],
+          "answer": "wordy",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q25": {
+          "question": "Little ___ about the consequences.",
+          "options": ["did they know", "they knew", "they did know", "knew they"],
+          "answer": "did they know",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q26": {
+          "question": "Which word means 'to make something worse'?",
+          "options": ["exacerbate", "alleviate", "improve", "help"],
+          "answer": "exacerbate",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q27": {
+          "question": "Not only ___ late, but he also forgot the report.",
+          "options": ["was he", "he was", "did he", "he did"],
+          "answer": "was he",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q28": {
+          "question": "What is a synonym for 'pragmatic'?",
+          "options": ["practical", "idealistic", "theoretical", "abstract"],
+          "answer": "practical",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q29": {
+          "question": "Only then ___ the importance of the event.",
+          "options": ["did I realize", "I realized", "I did realize", "realized I"],
+          "answer": "did I realize",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q30": {
+          "question": "What is the opposite of 'mundane'?",
+          "options": ["extraordinary", "ordinary", "common", "usual"],
+          "answer": "extraordinary",
+          "type": "vocabulary",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         }
@@ -500,121 +980,241 @@
       "questions": {
         "q1": {
           "question": "What is the opposite of 'beneficial'?",
-          "options": [
-            "harmful",
-            "helpful",
-            "useful",
-            "advantageous"
-          ],
+          "options": ["harmful", "helpful", "useful", "advantageous"],
           "answer": "harmful",
+          "type": "vocabulary",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q2": {
           "question": "Which word means 'to formally approve'?",
-          "options": [
-            "ratify",
-            "reject",
-            "deny",
-            "oppose"
-          ],
+          "options": ["ratify", "reject", "deny", "oppose"],
           "answer": "ratify",
+          "type": "vocabulary",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q3": {
           "question": "If I ___ harder, I would have passed the exam.",
-          "options": [
-            "had studied",
-            "studied",
-            "have studied",
-            "study"
-          ],
+          "options": ["had studied", "studied", "have studied", "study"],
           "answer": "had studied",
+          "type": "grammar",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q4": {
           "question": "By next year, I ___ here for a decade.",
-          "options": [
-            "will have been",
-            "will be",
-            "have been",
-            "had been"
-          ],
+          "options": ["will have been", "will be", "have been", "had been"],
           "answer": "will have been",
+          "type": "grammar",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q5": {
           "question": "They ___ the project by the deadline.",
-          "options": [
-            "will have completed",
-            "will complete",
-            "completed",
-            "are completing"
-          ],
+          "options": ["will have completed", "will complete", "completed", "are completing"],
           "answer": "will have completed",
+          "type": "grammar",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q6": {
           "question": "She ___ to the meeting if she had known about it.",
-          "options": [
-            "would have gone",
-            "would go",
-            "will go",
-            "went"
-          ],
+          "options": ["would have gone", "would go", "will go", "went"],
           "answer": "would have gone",
+          "type": "grammar",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q7": {
           "question": "What is a synonym for 'consequently'?",
-          "options": [
-            "therefore",
-            "however",
-            "although",
-            "because"
-          ],
+          "options": ["therefore", "however", "although", "because"],
           "answer": "therefore",
+          "type": "vocabulary",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q8": {
           "question": "He ___ his mind before we arrived.",
-          "options": [
-            "had changed",
-            "has changed",
-            "changed",
-            "was changing"
-          ],
+          "options": ["had changed", "has changed", "changed", "was changing"],
           "answer": "had changed",
+          "type": "grammar",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q9": {
           "question": "Which word means 'to examine in detail'?",
-          "options": [
-            "analyze",
-            "ignore",
-            "overlook",
-            "simplify"
-          ],
+          "options": ["analyze", "ignore", "overlook", "simplify"],
           "answer": "analyze",
+          "type": "vocabulary",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q10": {
           "question": "What is a synonym for 'meticulous'?",
-          "options": [
-            "careful",
-            "careless",
-            "sloppy",
-            "hasty"
-          ],
+          "options": ["careful", "careless", "sloppy", "hasty"],
           "answer": "careful",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q11": {
+          "question": "Under no circumstances ___ allowed to enter.",
+          "options": ["are they", "they are", "they will be", "they were"],
+          "answer": "are they",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q12": {
+          "question": "Which word means 'to express disapproval'?",
+          "options": ["criticize", "praise", "compliment", "approve"],
+          "answer": "criticize",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q13": {
+          "question": "Had I known, I ___ differently.",
+          "options": ["would have acted", "would act", "will act", "acted"],
+          "answer": "would have acted",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q14": {
+          "question": "Never before ___ such a sight.",
+          "options": ["have I seen", "I have seen", "I saw", "I had seen"],
+          "answer": "have I seen",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q15": {
+          "question": "Which word means 'to make something less severe'?",
+          "options": ["alleviate", "aggravate", "worsen", "intensify"],
+          "answer": "alleviate",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q16": {
+          "question": "What is a synonym for 'ubiquitous'?",
+          "options": ["everywhere", "nowhere", "rare", "scarce"],
+          "answer": "everywhere",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q17": {
+          "question": "Not until the end ___ the truth.",
+          "options": ["did she discover", "she discovered", "she had discovered", "she discovers"],
+          "answer": "did she discover",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q18": {
+          "question": "Only after the meeting ___ the decision.",
+          "options": ["did they make", "they made", "they had made", "they make"],
+          "answer": "did they make",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q19": {
+          "question": "What is a synonym for 'esoteric'?",
+          "options": ["obscure", "common", "familiar", "simple"],
+          "answer": "obscure",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q20": {
+          "question": "What is the opposite of 'ephemeral'?",
+          "options": ["permanent", "temporary", "fleeting", "brief"],
+          "answer": "permanent",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q21": {
+          "question": "Scarcely ___ when the trouble started.",
+          "options": ["had we arrived", "we had arrived", "we arrived", "arrived we"],
+          "answer": "had we arrived",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q22": {
+          "question": "Which word means 'to make something unclear'?",
+          "options": ["obfuscate", "clarify", "explain", "illuminate"],
+          "answer": "obfuscate",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q23": {
+          "question": "No sooner ___ than the phone rang.",
+          "options": ["had I left", "I had left", "I left", "left I"],
+          "answer": "had I left",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q24": {
+          "question": "What is a synonym for 'loquacious'?",
+          "options": ["talkative", "quiet", "reserved", "silent"],
+          "answer": "talkative",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q25": {
+          "question": "Little ___ about the consequences.",
+          "options": ["did they know", "they knew", "they did know", "knew they"],
+          "answer": "did they know",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q26": {
+          "question": "Which word means 'to make something worse'?",
+          "options": ["exacerbate", "alleviate", "improve", "help"],
+          "answer": "exacerbate",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q27": {
+          "question": "Not only ___ late, but he also forgot the report.",
+          "options": ["was he", "he was", "did he", "he did"],
+          "answer": "was he",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q28": {
+          "question": "What is a synonym for 'pragmatic'?",
+          "options": ["practical", "idealistic", "theoretical", "abstract"],
+          "answer": "practical",
+          "type": "vocabulary",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q29": {
+          "question": "Only then ___ the importance of the event.",
+          "options": ["did I realize", "I realized", "I did realize", "realized I"],
+          "answer": "did I realize",
+          "type": "grammar",
+          "difficulty": "hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q30": {
+          "question": "What is the opposite of 'mundane'?",
+          "options": ["extraordinary", "ordinary", "common", "usual"],
+          "answer": "extraordinary",
+          "type": "vocabulary",
           "difficulty": "hard",
           "createdAt": "2023-10-01T12:00:00Z"
         }
@@ -624,121 +1224,241 @@
       "questions": {
         "q1": {
           "question": "Under no circumstances ___ allowed to enter.",
-          "options": [
-            "are they",
-            "they are",
-            "they will be",
-            "they were"
-          ],
+          "options": ["are they", "they are", "they will be", "they were"],
           "answer": "are they",
+          "type": "grammar",
           "difficulty": "very hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q2": {
           "question": "Which word means 'to express disapproval'?",
-          "options": [
-            "criticize",
-            "praise",
-            "compliment",
-            "approve"
-          ],
+          "options": ["criticize", "praise", "compliment", "approve"],
           "answer": "criticize",
+          "type": "vocabulary",
           "difficulty": "very hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q3": {
           "question": "Had I known, I ___ differently.",
-          "options": [
-            "would have acted",
-            "would act",
-            "will act",
-            "acted"
-          ],
+          "options": ["would have acted", "would act", "will act", "acted"],
           "answer": "would have acted",
+          "type": "grammar",
           "difficulty": "very hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q4": {
           "question": "Never before ___ such a sight.",
-          "options": [
-            "have I seen",
-            "I have seen",
-            "I saw",
-            "I had seen"
-          ],
+          "options": ["have I seen", "I have seen", "I saw", "I had seen"],
           "answer": "have I seen",
+          "type": "grammar",
           "difficulty": "very hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q5": {
           "question": "Which word means 'to make something less severe'?",
-          "options": [
-            "alleviate",
-            "aggravate",
-            "worsen",
-            "intensify"
-          ],
+          "options": ["alleviate", "aggravate", "worsen", "intensify"],
           "answer": "alleviate",
+          "type": "vocabulary",
           "difficulty": "very hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q6": {
           "question": "What is a synonym for 'ubiquitous'?",
-          "options": [
-            "everywhere",
-            "nowhere",
-            "rare",
-            "scarce"
-          ],
+          "options": ["everywhere", "nowhere", "rare", "scarce"],
           "answer": "everywhere",
+          "type": "vocabulary",
           "difficulty": "very hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q7": {
           "question": "Not until the end ___ the truth.",
-          "options": [
-            "did she discover",
-            "she discovered",
-            "she had discovered",
-            "she discovers"
-          ],
+          "options": ["did she discover", "she discovered", "she had discovered", "she discovers"],
           "answer": "did she discover",
+          "type": "grammar",
           "difficulty": "very hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q8": {
           "question": "Only after the meeting ___ the decision.",
-          "options": [
-            "did they make",
-            "they made",
-            "they had made",
-            "they make"
-          ],
+          "options": ["did they make", "they made", "they had made", "they make"],
           "answer": "did they make",
+          "type": "grammar",
           "difficulty": "very hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q9": {
           "question": "What is a synonym for 'esoteric'?",
-          "options": [
-            "obscure",
-            "common",
-            "familiar",
-            "simple"
-          ],
+          "options": ["obscure", "common", "familiar", "simple"],
           "answer": "obscure",
+          "type": "vocabulary",
           "difficulty": "very hard",
           "createdAt": "2023-10-01T12:00:00Z"
         },
         "q10": {
           "question": "What is the opposite of 'ephemeral'?",
-          "options": [
-            "permanent",
-            "temporary",
-            "fleeting",
-            "brief"
-          ],
+          "options": ["permanent", "temporary", "fleeting", "brief"],
           "answer": "permanent",
+          "type": "vocabulary",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q11": {
+          "question": "Rarely ___ such dedication.",
+          "options": ["have I seen", "I have seen", "I saw", "I had seen"],
+          "answer": "have I seen",
+          "type": "grammar",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q12": {
+          "question": "Which word means 'to make something unclear'?",
+          "options": ["obfuscate", "clarify", "explain", "illuminate"],
+          "answer": "obfuscate",
+          "type": "vocabulary",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q13": {
+          "question": "No sooner ___ than the phone rang.",
+          "options": ["had I arrived", "I had arrived", "I arrived", "arrived I"],
+          "answer": "had I arrived",
+          "type": "grammar",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q14": {
+          "question": "What is a synonym for 'loquacious'?",
+          "options": ["talkative", "quiet", "reserved", "silent"],
+          "answer": "talkative",
+          "type": "vocabulary",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q15": {
+          "question": "Little ___ about the consequences.",
+          "options": ["did they know", "they knew", "they did know", "knew they"],
+          "answer": "did they know",
+          "type": "grammar",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q16": {
+          "question": "Which word means 'to make something worse'?",
+          "options": ["exacerbate", "alleviate", "improve", "help"],
+          "answer": "exacerbate",
+          "type": "vocabulary",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q17": {
+          "question": "Not only ___ late, but he also forgot the report.",
+          "options": ["was he", "he was", "did he", "he did"],
+          "answer": "was he",
+          "type": "grammar",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q18": {
+          "question": "What is a synonym for 'pragmatic'?",
+          "options": ["practical", "idealistic", "theoretical", "abstract"],
+          "answer": "practical",
+          "type": "vocabulary",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q19": {
+          "question": "Only then ___ the importance of the event.",
+          "options": ["did I realize", "I realized", "I did realize", "realized I"],
+          "answer": "did I realize",
+          "type": "grammar",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q20": {
+          "question": "What is the opposite of 'mundane'?",
+          "options": ["extraordinary", "ordinary", "common", "usual"],
+          "answer": "extraordinary",
+          "type": "vocabulary",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q21": {
+          "question": "At no time ___ aware of the situation.",
+          "options": ["was I", "I was", "I had been", "had I been"],
+          "answer": "was I",
+          "type": "grammar",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q22": {
+          "question": "Which word means 'to make something unclear deliberately'?",
+          "options": ["obfuscate", "clarify", "explain", "illuminate"],
+          "answer": "obfuscate",
+          "type": "vocabulary",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q23": {
+          "question": "Hardly ___ when the argument started.",
+          "options": ["had we begun", "we had begun", "we began", "begun we"],
+          "answer": "had we begun",
+          "type": "grammar",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q24": {
+          "question": "What is a synonym for 'perspicacious'?",
+          "options": ["perceptive", "obtuse", "dull", "unobservant"],
+          "answer": "perceptive",
+          "type": "vocabulary",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q25": {
+          "question": "In no way ___ responsible for the error.",
+          "options": ["was he", "he was", "he had been", "had he been"],
+          "answer": "was he",
+          "type": "grammar",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q26": {
+          "question": "Which word means 'to make something more intense'?",
+          "options": ["exacerbate", "alleviate", "mitigate", "lessen"],
+          "answer": "exacerbate",
+          "type": "vocabulary",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q27": {
+          "question": "Not for a moment ___ the truth.",
+          "options": ["did she doubt", "she doubted", "she did doubt", "doubted she"],
+          "answer": "did she doubt",
+          "type": "grammar",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q28": {
+          "question": "What is a synonym for 'sagacious'?",
+          "options": ["wise", "foolish", "stupid", "ignorant"],
+          "answer": "wise",
+          "type": "vocabulary",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q29": {
+          "question": "Only by chance ___ the solution.",
+          "options": ["did we find", "we found", "we did find", "found we"],
+          "answer": "did we find",
+          "type": "grammar",
+          "difficulty": "very hard",
+          "createdAt": "2023-10-01T12:00:00Z"
+        },
+        "q30": {
+          "question": "What is the opposite of 'prosaic'?",
+          "options": ["imaginative", "ordinary", "commonplace", "mundane"],
+          "answer": "imaginative",
+          "type": "vocabulary",
           "difficulty": "very hard",
           "createdAt": "2023-10-01T12:00:00Z"
         }

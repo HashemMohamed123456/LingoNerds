@@ -231,7 +231,7 @@ class _LevelTestScreenState extends State<LevelTestScreen> {
       child: Scaffold(
         appBar: AppBar(
           shadowColor: Colors.transparent,
-          title: Text('Language Level Test',style: GoogleFonts.anton(color:AppThemes.blueAppColor,fontSize: 25 ),),
+          title: Text('Language Level Test',style: GoogleFonts.anton(color:AppThemes.blueAppColor,fontSize: 20 ),),
           backgroundColor:Colors.transparent,
           actions: [
             Padding(padding: const EdgeInsets.all(10),child: Text('Score: $score',style:

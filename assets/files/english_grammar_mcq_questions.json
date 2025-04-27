@@ -1,0 +1,1504 @@
+{
+  "A1": [
+    {
+      "question": "Choose the correct article: ___ apple is red.",
+      "options": ["A", "An", "The", "No article"],
+      "answer": "An"
+    },
+    {
+      "question": "Complete the sentence: She ___ to school every day.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "goes"
+    },
+    {
+      "question": "What is the plural form of 'cat'?",
+      "options": ["cats", "cat13", "cat", "cates", "catz"],
+      "answer": "cats"
+    },
+    {
+      "question": "Choose the correct verb: I ___ a student.",
+      "options": ["am", "is", "are", "be"],
+      "answer": "am"
+    },
+    {
+      "question": "Select the correct pronoun: ___ is my friend.",
+      "options": ["He", "Him", "His", "Hers"],
+      "answer": "He"
+    },
+    {
+      "question": "Choose the correct preposition: I live ___ London.",
+      "options": ["in", "on", "at", "to"],
+      "answer": "in"
+    },
+    {
+      "question": "Complete: ___ you like to play?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "answer": "Do"
+    },
+    {
+      "question": "What is the plural of 'child'?",
+      "options": ["childs", "children", "childes", "child"],
+      "answer": "children"
+    },
+    {
+      "question": "Choose the correct verb: They ___ happy.",
+      "options": ["is", "are", "am", "be"],
+      "answer": "are"
+    },
+    {
+      "question": "Complete: 'What is the correct article: ___ university is old'.",
+      "options": ["A", "An", "The", "No article"],
+      "answer": "A"
+    },
+    {
+      "question": "Choose the correct word: I have two ___",
+      "options": ["dog", "dogs", "doges", "dogz"],
+      "answer": "dogs"
+    },
+    {
+      "question": "Complete: This is ___ book.",
+      "options": ["my", "me", "mine", "I"],
+      "answer": "my"
+    },
+    {
+      "question": "Choose the correct verb: He ___ a car.",
+      "options": ["have", "has", "having", "had"],
+      "answer": "has"
+    },
+    {
+      "question": "What is the plural of 'man'?",
+      "options": ["mans", "men", "manes", "man"],
+      "answer": "men"
+    },
+    {
+      "question": "Choose the correct pronoun: ___ are students.",
+      "options": ["We", "Us", "Our", "Ours"],
+      "answer": "We"
+    },
+    {
+      "question": "Choose the correct preposition: I go to bed ___ night.",
+      "options": ["in", "on", "at", "to"],
+      "answer": "at"
+    },
+    {
+      "question": "Complete: I ___ English.",
+      "options": ["speak", "spe011", "speaking", "spoken"],
+      "answer": "speak"
+    },
+    {
+      "question": "What is the plural of 'woman'?",
+      "options": ["womans", "women", "womens", "woman"],
+      "answer": "women"
+    },
+    {
+      "question": "Choose the correct verb: They ___ in the garden.",
+      "options": ["is", "are", "am", "be"],
+      "answer": "are"
+    },
+    {
+      "question": "Choose the correct article: ___ house is big.",
+      "options": ["A", "An", "The", "No article"],
+      "answer": "A"
+    },
+    {
+      "question": "Complete: We ___ to the park.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "go"
+    },
+    {
+      "question": "Choose the correct word: I like to ___",
+      "options": ["read", "reads", "reading", "readed"],
+      "answer": "read"
+    },
+    {
+      "question": "Complete: This is ___ pen.",
+      "options": ["my", "me", "mine", "I"],
+      "answer": "my"
+    },
+    {
+      "question": "Choose the correct verb: She ___ a book.",
+      "options": ["read", "reads", "reading", "readed"],
+      "answer": "reads"
+    },
+    {
+      "question": "What is the plural of 'foot'?",
+      "options": ["foots", "feet", "footes", "foot"],
+      "answer": "feet"
+    },
+    {
+      "question": "Choose the correct article: ___ cat is black.",
+      "options": ["A", "An", "The", "No article"],
+      "answer": "A"
+    },
+    {
+      "question": "Complete: He ___ to school.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "goes"
+    },
+    {
+      "question": "Choose the correct pronoun: ___ is a teacher.",
+      "options": ["She", "Her", "Hers", "She’s"],
+      "answer": "She"
+    },
+    {
+      "question": "Choose the correct preposition: I am ___ home.",
+      "options": ["in", "on", "at", "to"],
+      "answer": "at"
+    },
+    {
+      "question": "Complete: They ___ to the store.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "go"
+    },
+    {
+      "question": "What is the plural of 'baby'?",
+      "options": ["babys", "babies", "babie", "baby"],
+      "answer": "babies"
+    },
+    {
+      "question": "Choose the correct verb: I ___ a student.",
+      "options": ["am", "is", "are", "be"],
+      "answer": "am"
+    },
+    {
+      "question": "Complete: She ___ a doctor.",
+      "options": ["is", "are", "am", "be"],
+      "answer": "is"
+    },
+    {
+      "question": "Choose the correct article: ___ dog is small.",
+      "options": ["A", "An", "The", "No article"],
+      "answer": "A"
+    },
+    {
+      "question": "Complete: We ___ happy.",
+      "options": ["is", "are", "am", "be"],
+      "answer": "are"
+    },
+    {
+      "question": "Choose the correct pronoun: ___ is my sister.",
+      "options": ["She", "Her", "Hers", "She’s"],
+      "answer": "She"
+    },
+    {
+      "question": "Choose the correct preposition: I go ___ school.",
+      "options": ["in", "on", "at", "to"],
+      "answer": "to"
+    },
+    {
+      "question": "Complete: He ___ a student.",
+      "options": ["is", "are", "am", "be"],
+      "answer": "is"
+    },
+    {
+      "question": "What is the plural of 'fish'?",
+      "options": ["fishs", "fishes", "fish", "fishe"],
+      "answer": "fish"
+    },
+    {
+      "question": "Choose the correct verb: They ___ to the park.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "go"
+    },
+    {
+      "question": "Complete: I ___ a book.",
+      "options": ["read", "reads", "reading", "readed"],
+      "answer": "read"
+    },
+    {
+      "question": "Choose the correct article: ___ elephant is big.",
+      "options": ["A", "An", "The", "No article"],
+      "answer": "An"
+    },
+    {
+      "question": "Complete: She ___ to the shop.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "goes"
+    },
+    {
+      "question": "Choose the correct pronoun: ___ are friends.",
+      "options": ["They", "Them", "Their", "Theirs"],
+      "answer": "They"
+    },
+    {
+      "question": "Choose the correct preposition: I am ___ the kitchen.",
+      "options": ["in", "on", "at", "to"],
+      "answer": "in"
+    },
+    {
+      "question": "Complete: He ___ a teacher.",
+      "options": ["is", "are", "am", "be"],
+      "answer": "is"
+    },
+    {
+      "question": "What is the plural of 'box'?",
+      "options": ["boxs", "boxes", "boxe", "box"],
+      "answer": "boxes"
+    },
+    {
+      "question": "Choose the correct verb: I ___ to music.",
+      "options": ["listen", "listens", "listening", "listened"],
+      "answer": "listen"
+    },
+    {
+      "question": "Complete: They ___ students.",
+      "options": ["is", "are", "am", "be"],
+      "answer": "are"
+    },
+    {
+      "question": "Choose the correct article: ___ bird is flying.",
+      "options": ["A", "An", "The", "No article"],
+      "answer": "A"
+    },
+    {
+      "question": "Complete: We ___ to the beach.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "go"
+    }
+  ],
+  "A2": [
+    {
+      "question": "Choose the correct past tense: I ___ to the store yesterday.",
+      "options": ["go", "went", "gone", "going"],
+      "answer": "went"
+    },
+    {
+      "question": "What is the comparative form of 'good'?",
+      "options": ["gooder", "better", "best", "more good"],
+      "answer": "better"
+    },
+    {
+      "question": "Complete: She ___ her homework now.",
+      "options": ["is doing", "does", "do", "did"],
+      "answer": "is doing"
+    },
+    {
+      "question": "Which is correct: I have ___ friends.",
+      "options": ["much", "many", "a lot", "any"],
+      "answer": "many"
+    },
+    {
+      "question": "Choose the correct word: He ___ to music every evening.",
+      "options": ["listen", "listens", "listening", "listened"],
+      "answer": "listens"
+    },
+    {
+      "question": "What is the correct question: ___ you ever been to Paris?",
+      "options": ["Have", "Has", "Are", "Do"],
+      "answer": "Have"
+    },
+    {
+      "question": "Complete: They ___ football yesterday.",
+      "options": ["play", "played", "playing", "plays"],
+      "answer": "played"
+    },
+    {
+      "question": "What is the superlative form of 'big'?",
+      "options": ["bigger", "biggest", "more big", "most big"],
+      "answer": "biggest"
+    },
+    {
+      "question": "Choose the correct preposition: I am good ___ math.",
+      "options": ["at", "in", "on", "with"],
+      "answer": "at"
+    },
+    {
+      "question": "What is the past tense of 'eat'?",
+      "options": ["eated", "ate", "eaten", "eating"],
+      "answer": "ate"
+    },
+    {
+      "question": "Complete: If I ___ time, I will call you.",
+      "options": ["have", "has", "had", "having"],
+      "answer": "have"
+    },
+    {
+      "question": "Which is correct: There ___ a lot of people at the party.",
+      "options": ["was", "were", "is", "are"],
+      "answer": "were"
+    },
+    {
+      "question": "Choose the correct word: She ___ very tired after work.",
+      "options": ["feel", "feels", "feeling", "felt"],
+      "answer": "feels"
+    },
+    {
+      "question": "Complete: I ___ my keys yesterday.",
+      "options": ["lose", "lost", "losing", "loses"],
+      "answer": "lost"
+    },
+    {
+      "question": "What is the comparative form of 'bad'?",
+      "options": ["badder", "worse", "worst", "more bad"],
+      "answer": "worse"
+    },
+    {
+      "question": "Choose the correct preposition: I will meet you ___ 5 PM.",
+      "options": ["at", "in", "on", "by"],
+      "answer": "at"
+    },
+    {
+      "question": "What is the past tense of 'buy'?",
+      "options": ["buyed", "bought", "buying", "buys"],
+      "answer": "bought"
+    },
+    {
+      "question": "Complete: She ___ to the gym every day.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "goes"
+    },
+    {
+      "question": "Which is correct: I ___ never seen that movie.",
+      "options": ["have", "has", "had", "having"],
+      "answer": "have"
+    },
+    {
+      "question": "Choose the correct word: He ___ a new car last week.",
+      "options": ["buy", "bought", "buying", "buys"],
+      "answer": "bought"
+    },
+    {
+      "question": "Complete: They ___ in London last year.",
+      "options": ["live", "lived", "living", "lives"],
+      "answer": "lived"
+    },
+    {
+      "question": "What is the superlative form of 'good'?",
+      "options": ["gooder", "better", "best", "more good"],
+      "answer": "best"
+    },
+    {
+      "question": "Choose the correct preposition: The book is ___ the table.",
+      "options": ["at", "in", "on", "by"],
+      "answer": "on"
+    },
+    {
+      "question": "What is the past tense of 'drink'?",
+      "options": ["drinked", "drank", "drunk", "drinking"],
+      "answer": "drank"
+    },
+    {
+      "question": "Complete: If it ___ tomorrow, we will stay home.",
+      "options": ["rain", "rains", "raining", "rained"],
+      "answer": "rains"
+    },
+    {
+      "question": "Which is correct: There ___ a cat in the garden.",
+      "options": ["is", "are", "was", "were"],
+      "answer": "is"
+    },
+    {
+      "question": "Choose the correct word: I ___ to the radio every morning.",
+      "options": ["listen", "listens", "listening", "listened"],
+      "answer": "listen"
+    },
+    {
+      "question": "Complete: She ___ a letter yesterday.",
+      "options": ["write", "wrote", "writing", "writes"],
+      "answer": "wrote"
+    },
+    {
+      "question": "What is the comparative form of 'small'?",
+      "options": ["smaller", "smallest", "more small", "most small"],
+      "answer": "smaller"
+    },
+    {
+      "question": "Choose the correct preposition: I will see you ___ Monday.",
+      "options": ["at", "in", "on", "by"],
+      "answer": "on"
+    },
+    {
+      "question": "What is the past tense of 'see'?",
+      "options": ["seed", "saw", "seen", "seeing"],
+      "answer": "saw"
+    },
+    {
+      "question": "Complete: He ___ to school every day.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "goes"
+    },
+    {
+      "question": "Which is correct: I ___ finished my homework.",
+      "options": ["have", "has", "had", "having"],
+      "answer": "have"
+    },
+    {
+      "question": "Choose the correct word: They ___ a movie last night.",
+      "options": ["watch", "watched", "watching", "watches"],
+      "answer": "watched"
+    },
+    {
+      "question": "Complete: I ___ to the park yesterday.",
+      "options": ["go", "went", "going", "gone"],
+      "answer": "went"
+    },
+    {
+      "question": "What is the superlative form of 'bad'?",
+      "options": ["badder", "worse", "worst", "more bad"],
+      "answer": "worst"
+    },
+    {
+      "question": "Choose the correct past tense: She ___ to the shop.",
+      "options": ["go", "went", "gone", "going"],
+      "answer": "went"
+    },
+    {
+      "question": "Complete: If I ___ money, I will buy a car.",
+      "options": ["have", "has", "had", "having"],
+      "answer": "have"
+    },
+    {
+      "question": "Which is correct: There ___ many books on the shelf.",
+      "options": ["is", "are", "was", "were"],
+      "answer": "are"
+    },
+    {
+      "question": "Choose the correct word: He ___ very hungry.",
+      "options": ["feel", "feels", "feeling", "felt"],
+      "answer": "feels"
+    },
+    {
+      "question": "Complete: I ___ my phone yesterday.",
+      "options": ["lose", "lost", "losing", "loses"],
+      "answer": "lost"
+    },
+    {
+      "question": "What is the comparative form of 'tall'?",
+      "options": ["taller", "tallest", "more tall", "most tall"],
+      "answer": "taller"
+    },
+    {
+      "question": "Choose the correct preposition: I will meet you ___ the station.",
+      "options": ["at", "in", "on", "by"],
+      "answer": "at"
+    },
+    {
+      "question": "What is the past tense of 'take'?",
+      "options": ["taked", "took", "taken", "taking"],
+      "answer": "took"
+    },
+    {
+      "question": "Complete: She ___ to the park every day.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "goes"
+    },
+    {
+      "question": "Which is correct: I ___ never been to London.",
+      "options": ["have", "has", "had", "having"],
+      "answer": "have"
+    },
+    {
+      "question": "Choose the correct word: They ___ a book last week.",
+      "options": ["read", "readed", "reading", "reads"],
+      "answer": "read"
+    },
+    {
+      "question": "Complete: If it ___ sunny, we will go out.",
+      "options": ["is", "are", "was", "be"],
+      "answer": "is"
+    },
+    {
+      "question": "Which is correct: There ___ a dog in the yard.",
+      "options": ["is", "are", "was", "were"],
+      "answer": "is"
+    }
+  ],
+  "B1": [
+    {
+      "question": "Choose the correct form: By the time we arrived, they ___ dinner.",
+      "options": ["finish", "finished", "had finished", "finishing"],
+      "answer": "had finished"
+    },
+    {
+      "question": "What is the correct modal verb: You ___ study harder to pass the exam.",
+      "options": ["can", "should", "might", "will"],
+      "answer": "should"
+    },
+    {
+      "question": "Complete: If I ___ you, I would apologize.",
+      "options": ["am", "was", "were", "be"],
+      "answer": "were"
+    },
+    {
+      "question": "Which is correct: I ___ to the gym since last month.",
+      "options": ["go", "went", "have been going", "had gone"],
+      "answer": "have been going"
+    },
+    {
+      "question": "Choose the correct word: The movie was so ___ that I cried.",
+      "options": ["bore", "boring", "bored", "boredom"],
+      "answer": "boring"
+    },
+    {
+      "question": "What is the correct question: ___ you ever tried sushi?",
+      "options": ["Have", "Has", "Do", "Did"],
+      "answer": "Have"
+    },
+    {
+      "question": "Complete: She ___ her homework before dinner.",
+      "options": ["does", "did", "has done", "had done"],
+      "answer": "had done"
+    },
+    {
+      "question": "What is the correct form: I wish I ___ more time to study.",
+      "options": ["have", "had", "has", "having"],
+      "answer": "had"
+    },
+    {
+      "question": "Choose the correct preposition: I am interested ___ learning new languages.",
+      "options": ["at", "in", "on", "with"],
+      "answer": "in"
+    },
+    {
+      "question": "What is the past participle of 'break'?",
+      "options": ["broke", "broken", "breaking", "breaks"],
+      "answer": "broken"
+    },
+    {
+      "question": "Complete: If it ___ tomorrow, we will cancel the picnic.",
+      "options": ["rain", "rains", "rained", "raining"],
+      "answer": "rains"
+    },
+    {
+      "question": "Which is correct: The book ___ by J.K. Rowling.",
+      "options": ["is written", "was written", "has written", "writes"],
+      "answer": "was written"
+    },
+    {
+      "question": "Choose the correct word: I’m really ___ about the exam results.",
+      "options": ["worry", "worried", "worrying", "worries"],
+      "answer": "worified"
+    },
+    {
+      "question": "Complete: I ___ to Paris twice.",
+      "options": ["go", "went", "have been", "had gone"],
+      "answer": "have been"
+    },
+    {
+      "question": "What is the correct modal verb: She ___ be at home now.",
+      "options": ["can", "might", "will", "shall"],
+      "answer": "might"
+    },
+    {
+      "question": "Choose the correct preposition: He is afraid ___ spiders.",
+      "options": ["at", "in", "of", "with"],
+      "answer": "of"
+    },
+    {
+      "question": "What is the past participle of 'choose'?",
+      "options": ["chose", "chosen", "choosing", "chooses"],
+      "answer": "chosen"
+    },
+    {
+      "question": "Complete: If I ___ earlier, I wouldn’t have missed the bus.",
+      "options": ["leave", "left", "had left", "leaving"],
+      "answer": "had left"
+    },
+    {
+      "question": "Which is correct: The room ___ every day.",
+      "options": ["is cleaned", "was cleaned", "has cleaned", "cleans"],
+      "answer": "is cleaned"
+    },
+    {
+      "question": "Choose the correct word: The news was so ___ that everyone was shocked.",
+      "options": ["surprise", "surprised", "surprising", "surprises"],
+      "answer": "surprising"
+    },
+    {
+      "question": "Complete: She ___ her keys since yesterday.",
+      "options": ["lose", "lost", "has lost", "had lost"],
+      "answer": "has lost"
+    },
+    {
+      "question": "What is the correct modal verb: You ___ wear a seatbelt in the car.",
+      "options": ["can", "must", "might", "will"],
+      "answer": "must"
+    },
+    {
+      "question": "Choose the correct preposition: I am tired ___ studying all day.",
+      "options": ["at", "in", "of", "with"],
+      "answer": "of"
+    },
+    {
+      "question": "What is the past participle of 'take'?",
+      "options": ["took", "taken", "taking", "takes"],
+      "answer": "taken"
+    },
+    {
+      "question": "Complete: If I ___ rich, I would travel the world.",
+      "options": ["am", "was", "were", "be"],
+      "answer": "were"
+    },
+    {
+      "question": "Which is correct: The cake ___ by my mom.",
+      "options": ["is made", "was made", "has made", "makes"],
+      "answer": "was made"
+    },
+    {
+      "question": "Choose the correct word: I’m really ___ about the trip.",
+      "options": ["excite", "excited", "exciting", "excites"],
+      "answer": "excited"
+    },
+    {
+      "question": "Complete: I ___ my homework yet.",
+      "options": ["don’t finish", "didn’t finish", "haven’t finished", "hadn’t finished"],
+      "answer": "haven’t finished"
+    },
+    {
+      "question": "What is the correct modal verb: It ___ rain this afternoon.",
+      "options": ["can", "might", "will", "shall"],
+      "answer": "might"
+    },
+    {
+      "question": "Choose the correct preposition: She is good ___ playing the piano.",
+      "options": ["at", "in", "on", "with"],
+      "answer": "at"
+    },
+    {
+      "question": "What is the past participle of 'write'?",
+      "options": ["wrote", "written", "writing", "writes"],
+      "answer": "written"
+    },
+    {
+      "question": "Complete: If I ___ harder, I would have passed the exam.",
+      "options": ["study", "studied", "had studied", "studying"],
+      "answer": "had studied"
+    },
+    {
+      "question": "Which is correct: The windows ___ every week.",
+      "options": ["is cleaned", "are cleaned", "has cleaned", "cleans"],
+      "answer": "are cleaned"
+    },
+    {
+      "question": "Choose the correct word: The book was so ___ that I couldn’t stop reading.",
+      "options": ["interest", "interested", "interesting", "interests"],
+      "answer": "interesting"
+    },
+    {
+      "question": "Complete: I ___ to the doctor tomorrow.",
+      "options": ["go", "went", "am going", "had gone"],
+      "answer": "am going"
+    },
+    {
+      "question": "What is the correct modal verb: You ___ ask for permission first.",
+      "options": ["can", "should", "might", "will"],
+      "answer": "should"
+    },
+    {
+      "question": "Choose the correct form: By the time we got there, they ___ the party.",
+      "options": ["start", "started", "had started", "starting"],
+      "answer": "had started"
+    },
+    {
+      "question": "Complete: If I ___ you, I would call her.",
+      "options": ["am", "was", "were", "be"],
+      "answer": "were"
+    },
+    {
+      "question": "Which is correct: I ___ to the beach last weekend.",
+      "options": ["go", "went", "have gone", "had gone"],
+      "answer": "went"
+    },
+    {
+      "question": "Choose the correct word: The lecture was so ___ that I fell asleep.",
+      "options": ["bore", "boring", "bored", "boredom"],
+      "answer": "boring"
+    },
+    {
+      "question": "What is the correct question: ___ you ever visited Rome?",
+      "options": ["Have", "Has", "Do", "Did"],
+      "answer": "Have"
+    },
+    {
+      "question": "Complete: She ___ her homework last night.",
+      "options": ["does", "did", "has done", "had done"],
+      "answer": "did"
+    },
+    {
+      "question": "What is the correct form: I wish I ___ more money.",
+      "options": ["have", "had", "has", "having"],
+      "answer": "had"
+    },
+    {
+      "question": "Choose the correct preposition: I am excited ___ the concert.",
+      "options": ["at", "in", "about", "with"],
+      "answer": "about"
+    },
+    {
+      "question": "What is the past participle of 'drink'?",
+      "options": ["drank", "drunk", "drinking", "drinks"],
+      "answer": "drunk"
+    },
+    {
+      "question": "Complete: If it ___ sunny, we will go hiking.",
+      "options": ["is", "are", "was", "be"],
+      "answer": "is"
+    },
+    {
+      "question": "Which is correct: The song ___ by many artists.",
+      "options": ["is sung", "was sung", "has sung", "sings"],
+      "answer": "has been sung"
+    },
+    {
+      "question": "Choose the correct word: I’m really ___ about the results.",
+      "options": ["nerve", "nervous", "nerving", "nerves"],
+      "answer": "nervous"
+    },
+    {
+      "question": "Complete: I ___ to London three times.",
+      "options": ["go", "went", "have been", "had gone"],
+      "answer": "have been"
+    }
+  ],
+  "B2": [
+    {
+      "question": "Choose the correct form: I ___ to the meeting if I had known about it.",
+      "options": ["would go", "would have gone", "will go", "had gone"],
+      "answer": "would have gone"
+    },
+    {
+      "question": "What is the correct phrasal verb: She ___ her old clothes to charity.",
+      "options": ["gave up", "gave away", "gave in", "gave out"],
+      "answer": "gave away"
+    },
+    {
+      "question": "Complete: Unless you ___ harder, you won’t succeed.",
+      "options": ["work", "worked", "had worked", "working"],
+      "answer": "work"
+    },
+    {
+      "question": "Which is correct: The project ___ by the team next week.",
+      "options": ["will complete", "will be completed", "completes", "is completed"],
+      "answer": "will be completed"
+    },
+    {
+      "question": "Choose the correct word: His speech was very ___ and motivated everyone.",
+      "options": ["inspire", "inspired", "inspiring", "inspiration"],
+      "answer": "inspiring"
+    },
+    {
+      "question": "What is the correct question: ___ having dinner when the phone rang?",
+      "options": ["Were you", "Are you", "Have you been", "Had you been"],
+      "answer": "Were you"
+    },
+    {
+      "question": "Complete: I regret ___ you earlier.",
+      "options": ["not call", "not calling", "not called", "not to call"],
+      "answer": "not calling"
+    },
+    {
+      "question": "What is the correct form: She ___ to the radio when the news came on.",
+      "options": ["listens", "listened", "was listening", "had listened"],
+      "answer": "was listening"
+    },
+    {
+      "question": "Choose the correct preposition: He apologized ___ being late.",
+      "options": ["for", "to", "with", "at"],
+      "answer": "for"
+    },
+    {
+      "question": "What is the past participle of 'forget'?",
+      "options": ["forgot", "forgotten", "forgetting", "forgets"],
+      "answer": "forgotten"
+    },
+    {
+      "question": "Complete: If I ___ the lottery, I would buy a house.",
+      "options": ["win", "won", "had won", "winning"],
+      "answer": "won"
+    },
+    {
+      "question": "Which is correct: The problem ___ by the engineers yesterday.",
+      "options": ["is solved", "was solved", "has solved", "solves"],
+      "answer": "was solved"
+    },
+    {
+      "question": "Choose the correct word: The meeting was very ___ and went on for hours.",
+      "options": ["bore", "bored", "boring", "boredom"],
+      "answer": "boring"
+    },
+    {
+      "question": "What is the correct question: ___ you rather live, in the city or the countryside?",
+      "options": ["What would", "Where would", "Why would", "When would"],
+      "answer": "Where would"
+    },
+    {
+      "question": "Complete: I’m looking forward ___ you next week.",
+      "options": ["to see", "to seeing", "seeing", "see"],
+      "answer": "to seeing"
+    },
+    {
+      "question": "What is the correct form: By this time tomorrow, I ___ my exam.",
+      "options": ["finish", "finished", "will have finished", "had finished"],
+      "answer": "will have finished"
+    },
+    {
+      "question": "Choose the correct preposition: She is allergic ___ cats.",
+      "options": ["to", "with", "of", "at"],
+      "answer": "to"
+    },
+    {
+      "question": "What is the past participle of 'hide'?",
+      "options": ["hid", "hidden", "hiding", "hides"],
+      "answer": "hidden"
+    },
+    {
+      "question": "Complete: If I ___ more time, I would learn Spanish.",
+      "options": ["have", "had", "has", "having"],
+      "answer": "had"
+    },
+    {
+      "question": "Which is correct: The house ___ next month.",
+      "options": ["will paint", "will be painted", "paints", "is painted"],
+      "answer": "will be painted"
+    },
+    {
+      "question": "Choose the correct word: His decision was very ___ and surprised everyone.",
+      "options": ["confuse", "confused", "confusing", "confusion"],
+      "answer": "confusing"
+    },
+    {
+      "question": "What is the correct question: ___ you been working here?",
+      "options": ["How long have", "How long are", "How long were", "How long had"],
+      "answer": "How long have"
+    },
+    {
+      "question": "Complete: I’d rather ___ at home tonight.",
+      "options": ["stay", "stayed", "staying", "to stay"],
+      "answer": "stay"
+    },
+    {
+      "question": "What is the correct form: She ___ for two hours when I called her.",
+      "options": ["studies", "studied", "was studying", "had been studying"],
+      "answer": "had been studying"
+    },
+    {
+      "question": "Choose the correct preposition: He is responsible ___ the project.",
+      "options": ["for", "to", "with", "at"],
+      "answer": "for"
+    },
+    {
+      "question": "What is the past participle of 'speak'?",
+      "options": ["spoke", "spoken", "speaking", "speaks"],
+      "answer": "spoken"
+    },
+    {
+      "question": "Complete: If I ___ earlier, I wouldn’t have been late.",
+      "options": ["leave", "left", "had left", "leaving"],
+      "answer": "had left"
+    },
+    {
+      "question": "Which is correct: The car ___ by the mechanic tomorrow.",
+      "options": ["will repair", "will be repaired", "repairs", "is repaired"],
+      "answer": "will be repaired"
+    },
+    {
+      "question": "Choose the correct word: The lecture was so ___ that I fell asleep.",
+      "options": ["bore", "bored", "boring", "boredom"],
+      "answer": "boring"
+    },
+    {
+      "question": "What is the correct question: ___ you going to the party tonight?",
+      "options": ["Are", "Were", "Have", "Had"],
+      "answer": "Are"
+    },
+    {
+      "question": "Complete: I can’t help ___ about the exam.",
+      "options": ["worry", "worrying", "worried", "to worry"],
+      "answer": "worrying"
+    },
+    {
+      "question": "What is the correct form: I ___ my homework by the time you arrive.",
+      "options": ["finish", "finished", "will have finished", "had finished"],
+      "answer": "will have finished"
+    },
+    {
+      "question": "Choose the correct preposition: She is famous ___ her paintings.",
+      "options": ["for", "to", "with", "at"],
+      "answer": "for"
+    },
+    {
+      "question": "What is the past participle of 'drive'?",
+      "options": ["drove", "driven", "driving", "drives"],
+      "answer": "driven"
+    },
+    {
+      "question": "Complete: If I ___ you, I would take the job.",
+      "options": ["am", "was", "were", "be"],
+      "answer": "were"
+    },
+    {
+      "question": "Which is correct: The letter ___ by tomorrow.",
+      "options": ["will send", "will be sent", "sends", "is sent"],
+      "answer": "will be sent"
+    },
+    {
+      "question": "Choose the correct word: The story was very ___ and made me laugh.",
+      "options": ["amuse", "amused", "amusing", "amusement"],
+      "answer": "amusing"
+    },
+    {
+      "question": "What is the correct question: ___ you finished your homework?",
+      "options": ["Have", "Are", "Were", "Had"],
+      "answer": "Have"
+    },
+    {
+      "question": "Complete: I’m used ___ early every day.",
+      "options": ["to wake up", "to waking up", "waking up", "wake up"],
+      "answer": "to waking up"
+    },
+    {
+      "question": "What is the correct form: She ___ for the bus when it started raining.",
+      "options": ["waits", "waited", "was waiting", "had waited"],
+      "answer": "was waiting"
+    },
+    {
+      "question": "Choose the correct form: I ___ to the party if I wasn’t sick.",
+      "options": ["would go", "would have gone", "will go", "had gone"],
+      "answer": "would have gone"
+    },
+    {
+      "question": "Complete: Unless you ___ now, you’ll be late.",
+      "options": ["leave", "left", "had left", "leaving"],
+      "answer": "leave"
+    },
+    {
+      "question": "Which is correct: The building ___ next year.",
+      "options": ["will renovate", "will be renovated", "renovates", "is renovated"],
+      "answer": "will be renovated"
+    },
+    {
+      "question": "Choose the correct word: His explanation was very ___ and hard to follow.",
+      "options": ["confuse", "confused", "confusing", "confusion"],
+      "answer": "confusing"
+    },
+    {
+      "question": "What is the correct question: ___ you been studying English?",
+      "options": ["How long have", "How long are", "How long were", "How long had"],
+      "answer": "How long have"
+    },
+    {
+      "question": "Complete: I’d rather ___ out tonight.",
+      "options": ["go", "went", "going", "to go"],
+      "answer": "go"
+    },
+    {
+      "question": "What is the correct form: She ___ for hours when I arrived.",
+      "options": ["waits", "waited", "was waiting", "had been waiting"],
+      "answer": "had been waiting"
+    },
+    {
+      "question": "Choose the correct preposition: He is in charge ___ the team.",
+      "options": ["for", "to", "of", "at"],
+      "answer": "of"
+    },
+    {
+      "question": "What is the past participle of 'choose'?",
+      "options": ["chose", "chosen", "choosing", "chooses"],
+      "answer": "chosen"
+    }
+  ],
+  "C1": [
+    {
+      "question": "Choose the correct form: Had I known about the delay, I ___ earlier.",
+      "options": ["would arrive", "would have arrived", "will arrive", "had arrived"],
+      "answer": "would have arrived"
+    },
+    {
+      "question": "What is the correct phrasal verb: He ___ his responsibilities as a leader.",
+      "options": ["took up", "took on", "took over", "took in"],
+      "answer": "took on"
+    },
+    {
+      "question": "Complete: It’s high time you ___ your priorities.",
+      "options": ["reconsider", "reconsidered", "had reconsidered", "reconsidering"],
+      "answer": "reconsidered"
+    },
+    {
+      "question": "Which is correct: The theory ___ widely accepted by scientists.",
+      "options": ["is", "was", "has been", "had been"],
+      "answer": "has been"
+    },
+    {
+      "question": "Choose the correct word: His argument was so ___ that nobody could disagree.",
+      "options": ["convince", "convinced", "convincing", "conviction"],
+      "answer": "convincing"
+    },
+    {
+      "question": "What is the correct question: ___ the meeting been rescheduled?",
+      "options": ["Has", "Is", "Was", "Had"],
+      "answer": "Has"
+    },
+    {
+      "question": "Complete: I can’t stand ___ in long queues.",
+      "options": ["wait", "waiting", "waited", "to wait"],
+      "answer": "waiting"
+    },
+    {
+      "question": "What is the correct form: The issue ___ thoroughly before the decision was made.",
+      "options": ["discusses", "discussed", "was discussed", "had been discussed"],
+      "answer": "had been discussed"
+    },
+    {
+      "question": "Choose the correct preposition: She was accused ___ stealing the documents.",
+      "options": ["for", "to", "with", "of"],
+      "answer": "of"
+    },
+    {
+      "question": "What is the past participle of 'swear'?",
+      "options": ["swore", "sworn", "swearing", "swears"],
+      "answer": "sworn"
+    },
+    {
+      "question": "Complete: If only I ___ more attention in class.",
+      "options": ["pay", "paid", "had paid", "paying"],
+      "answer": "had paid"
+    },
+    {
+      "question": "Which is correct: The results ___ by the committee next week.",
+      "options": ["will announce", "will be announced", "announce", "are announced"],
+      "answer": "will be announced"
+    },
+    {
+      "question": "Choose the correct word: The politician’s decision was highly ___ and caused outrage.",
+      "options": ["controversy", "controversial", "controversially", "controversies"],
+      "answer": "controversial"
+    },
+    {
+      "question": "What is the correct question: ___ the new policy affect the employees?",
+      "options": ["How will", "How does", "How is", "How has"],
+      "answer": "How will"
+    },
+    {
+      "question": "Complete: There’s no point ___ about the past.",
+      "options": ["worry", "worrying", "worried", "to worry"],
+      "answer": "worrying"
+    },
+    {
+      "question": "What is the correct form: By next month, we ___ on this project for a year.",
+      "options": ["work", "worked", "will have been working", "had worked"],
+      "answer": "will have been working"
+    },
+    {
+      "question": "Choose the correct preposition: He succeeded ___ his determination.",
+      "options": ["because of", "due to", "thanks to", "all of these"],
+      "answer": "all of these"
+    },
+    {
+      "question": "What is the past participle of 'steal'?",
+      "options": ["stole", "stolen", "stealing", "steals"],
+      "answer": "stolen"
+    },
+    {
+      "question": "Complete: If I ___ the chance, I would study abroad.",
+      "options": ["have", "had", "has", "having"],
+      "answer": "had"
+    },
+    {
+      "question": "Which is correct: The speech ___ by thousands of people online.",
+      "options": ["watched", "was watched", "has watched", "is watching"],
+      "answer": "was watched"
+    },
+    {
+      "question": "Choose the correct word: His explanation was so ___ that nobody understood it.",
+      "options": ["confuse", "confused", "confusing", "confusion"],
+      "answer": "confusing"
+    },
+    {
+      "question": "What is the correct question: ___ the company been in business?",
+      "options": ["How long has", "How long is", "How long was", "How long had"],
+      "answer": "How long has"
+    },
+    {
+      "question": "Complete: I’d prefer ___ at home than go out tonight.",
+      "options": ["stay", "staying", "to stay", "stayed"],
+      "answer": "to stay"
+    },
+    {
+      "question": "What is the correct form: The book ___ into several languages last year.",
+      "options": ["translates", "translated", "was translated", "had translated"],
+      "answer": "was translated"
+    },
+    {
+      "question": "Choose the correct preposition: She is capable ___ solving complex problems.",
+      "options": ["for", "to", "with", "of"],
+      "answer": "of"
+    },
+    {
+      "question": "What is the past participle of 'rise'?",
+      "options": ["rose", "risen", "rising", "rises"],
+      "answer": "risen"
+    },
+    {
+      "question": "Complete: If I ___ more experience, I would get the job.",
+      "options": ["have", "had", "has", "having"],
+      "answer": "had"
+    },
+    {
+      "question": "Which is correct: The issue ___ by the team tomorrow.",
+      "options": ["will discuss", "will be discussed", "discusses", "is discussed"],
+      "answer": "will be discussed"
+    },
+    {
+      "question": "Choose the correct word: The discovery was ___ and changed science forever.",
+      "options": ["groundbreak", "groundbreaking", "groundbroken", "groundbreaker"],
+      "answer": "groundbreaking"
+    },
+    {
+      "question": "What is the correct question: ___ the new system been implemented?",
+      "options": ["Has", "Is", "Was", "Had"],
+      "answer": "Has"
+    },
+    {
+      "question": "Complete: It’s worth ___ the museum while you’re in town.",
+      "options": ["visit", "visiting", "visited", "to visit"],
+      "answer": "visiting"
+    },
+    {
+      "question": "What is the correct form: The building ___ for over a century.",
+      "options": ["stands", "stood", "has stood", "had stood"],
+      "answer": "has stood"
+    },
+    {
+      "question": "Choose the correct preposition: He is committed ___ his work.",
+      "options": ["for", "to", "with", "at"],
+      "answer": "to"
+    },
+    {
+      "question": "What is the past participle of 'fall'?",
+      "options": ["fell", "fallen", "falling", "falls"],
+      "answer": "fallen"
+    },
+    {
+      "question": "Complete: If only we ___ more time to prepare.",
+      "options": ["have", "had", "has", "having"],
+      "answer": "had"
+    },
+    {
+      "question": "Which is correct: The decision ___ by the board last week.",
+      "options": ["made", "was made", "has made", "is making"],
+      "answer": "was made"
+    },
+    {
+      "question": "Choose the correct word: The speech was so ___ that everyone clapped.",
+      "options": ["inspire", "inspired", "inspiring", "inspiration"],
+      "answer": "inspiring"
+    },
+    {
+      "question": "What is the correct question: ___ the report been submitted?",
+      "options": ["Has", "Is", "Was", "Had"],
+      "answer": "Has"
+    },
+    {
+      "question": "Complete: There’s no harm ___ again.",
+      "options": ["try", "trying", "tried", "to try"],
+      "answer": "trying"
+    },
+    {
+      "question": "What is the correct form: The event ___ for months before it took place.",
+      "options": ["planned", "was planned", "has planned", "had been planned"],
+      "answer": "had been planned"
+    },
+    {
+      "question": "Choose the correct form: Had she studied harder, she ___ the exam.",
+      "options": ["would pass", "would have passed", "will pass", "had passed"],
+      "answer": "would have passed"
+    },
+    {
+      "question": "Complete: It’s about time you ___ your homework.",
+      "options": ["start", "started", "had started", "starting"],
+      "answer": "started"
+    },
+    {
+      "question": "Which is correct: The theory ___ by new evidence last year.",
+      "options": ["supports", "supported", "was supported", "has been supported"],
+      "answer": "has been supported"
+    },
+    {
+      "question": "Choose the correct word: The lecture was remarkably ___ and engaging.",
+      "options": ["inform", "informed", "informative", "information"],
+      "answer": "informative"
+    },
+    {
+      "question": "What is the correct question: ___ the budget been approved?",
+      "options": ["Has", "Is", "Was", "Had"],
+      "answer": "Has"
+    },
+    {
+      "question": "Complete: I can’t help ___ nervous before exams.",
+      "options": ["feel", "feeling", "felt", "to feel"],
+      "answer": "feeling"
+    },
+    {
+      "question": "What is the correct form: By next year, I ___ here for a decade.",
+      "options": ["live", "lived", "will have been living", "had lived"],
+      "answer": "will have been living"
+    },
+    {
+      "question": "Choose the correct preposition: She was praised ___ her efforts.",
+      "options": ["for", "to", "with", "at"],
+      "answer": "for"
+    },
+    {
+      "question": "What is the past participle of 'grow'?",
+      "options": ["grew", "grown", "growing", "grows"],
+      "answer": "grown"
+    },
+    {
+      "question": "Complete: If only I ___ the answer to that question.",
+      "options": ["know", "knew", "had known", "knowing"],
+      "answer": "had known"
+    }
+  ],
+  "C2": [
+    {
+      "question": "Choose the correct form: Were it not for her support, I ___ the project.",
+      "options": ["wouldn’t complete", "wouldn’t have completed", "won’t complete", "hadn’t completed"],
+      "answer": "wouldn’t have completed"
+    },
+    {
+      "question": "What is the correct phrasal verb: The company ___ the economic downturn successfully.",
+      "options": ["weathered", "wore off", "wound up", "wrote off"],
+      "answer": "weathered"
+    },
+    {
+      "question": "Complete: Not only ___ the exam, but she also got the highest score.",
+      "options": ["she passed", "did she pass", "had she passed", "was she passing"],
+      "answer": "did she pass"
+    },
+    {
+      "question": "Which is correct: The hypothesis ___ by recent experiments.",
+      "options": ["disproves", "disproved", "was disproved", "has been disproved"],
+      "answer": "has been disproved"
+    },
+    {
+      "question": "Choose the correct word: His speech was so ___ that it left everyone speechless.",
+      "options": ["eloquent", "eloquently", "eloquence", "eloquents"],
+      "answer": "eloquent"
+    },
+    {
+      "question": "What is the correct question: ___ the board’s decision been finalized?",
+      "options": ["Has", "Is", "Was", "Had"],
+      "answer": "Has"
+    },
+    {
+      "question": "Complete: Under no circumstances ___ the truth.",
+      "options": ["I would hide", "would I hide", "had I hidden", "I had hidden"],
+      "answer": "would I hide"
+    },
+    {
+      "question": "What is the correct form: The lecture ___ for its innovative approach.",
+      "options": ["praised", "was praised", "has praised", "had praised"],
+      "answer": "was praised"
+    },
+    {
+      "question": "Choose the correct preposition: She was absolved ___ all blame.",
+      "options": ["from", "of", "with", "for"],
+      "answer": "of"
+    },
+    {
+      "question": "What is the past participle of 'strive'?",
+      "options": ["strove", "striven", "striving", "strives"],
+      "answer": "striven"
+    },
+    {
+      "question": "Complete: Rarely ___ such a talented musician.",
+      "options": ["I have seen", "have I seen", "had I seen", "I had seen"],
+      "answer": "have I seen"
+    },
+    {
+      "question": "Which is correct: The policy ___ by the government last year.",
+      "options": ["implemented", "was implemented", "has implemented", "had implemented"],
+      "answer": "was implemented"
+    },
+    {
+      "question": "Choose the correct word: The professor’s lecture was remarkably ___ and insightful.",
+      "options": ["erudite", "eruditely", "erudition", "erudites"],
+      "answer": "erudite"
+    },
+    {
+      "question": "What is the correct question: ___ the new regulations been enforced?",
+      "options": ["Have", "Are", "Were", "Had"],
+      "answer": "Have"
+    },
+    {
+      "question": "Complete: No sooner ___ the news than she started crying.",
+      "options": ["she heard", "did she hear", "had she heard", "was she hearing"],
+      "answer": "had she heard"
+    },
+    {
+      "question": "What is the correct form: The issue ___ extensively before the vote.",
+      "options": ["debates", "debated", "was debated", "had been debated"],
+      "answer": "had been debated"
+    },
+    {
+      "question": "Choose the correct preposition: He was commended ___ his bravery.",
+      "options": ["for", "to", "with", "at"],
+      "answer": "for"
+    },
+    {
+      "question": "What is the past participle of 'forsake'?",
+      "options": ["forsook", "forsaken", "forsaking", "forsakes"],
+      "answer": "forsaken"
+    },
+    {
+      "question": "Complete: Only after ___ the contract did I realize the mistake.",
+      "options": ["sign", "signing", "signed", "had signed"],
+      "answer": "signing"
+    },
+    {
+      "question": "Which is correct: The discovery ___ to new research opportunities.",
+      "options": ["leads", "led", "was led", "has led"],
+      "answer": "has led"
+    },
+    {
+      "question": "Choose the correct word: Her argument was so ___ that it convinced everyone.",
+      "options": ["compel", "compelled", "compelling", "compulsion"],
+      "answer": "compelling"
+    },
+    {
+      "question": "What is the correct question: ___ the project been delayed again?",
+      "options": ["Has", "Is", "Was", "Had"],
+      "answer": "Has"
+    },
+    {
+      "question": "Complete: Hardly ___ the meeting started when the fire alarm went off.",
+      "options": ["the meeting had", "had the meeting", "the meeting was", "was the meeting"],
+      "answer": "had the meeting"
+    },
+    {
+      "question": "What is the correct form: The novel ___ into a movie next year.",
+      "options": ["adapts", "adapted", "will be adapted", "had adapted"],
+      "answer": "will be adapted"
+    },
+    {
+      "question": "Choose the correct preposition: She was oblivious ___ the danger.",
+      "options": ["for", "to", "with", "at"],
+      "answer": "to"
+    },
+    {
+      "question": "What is the past participle of 'tread'?",
+      "options": ["trod", "trodden", "treading", "treads"],
+      "answer": "trodden"
+    },
+    {
+      "question": "Complete: Were I ___ more time, I would volunteer.",
+      "options": ["have", "had", "to have", "having"],
+      "answer": "to have"
+    },
+    {
+      "question": "Which is correct: The theory ___ by new evidence recently.",
+      "options": ["supports", "supported", "was supported", "has been supported"],
+      "answer": "has been supported"
+    },
+    {
+      "question": "Choose the correct word: His analysis was remarkably ___ and thorough.",
+      "options": ["insight", "insightful", "insightfully", "insights"],
+      "answer": "insightful"
+    },
+    {
+      "question": "What is the correct question: ___ the budget been approved yet?",
+      "options": ["Has", "Is", "Was", "Had"],
+      "answer": "Has"
+    },
+    {
+      "question": "Complete: Little ___ how much work it would be.",
+      "options": ["I knew", "did I know", "had I known", "I had known"],
+      "answer": "did I know"
+    },
+    {
+      "question": "What is the correct form: The decision ___ by the committee last month.",
+      "options": ["finalizes", "finalized", "was finalized", "had finalized"],
+      "answer": "was finalized"
+    },
+    {
+      "question": "Choose the correct preposition: He was renowned ___ his expertise.",
+      "options": ["for", "to", "with", "at"],
+      "answer": "for"
+    },
+    {
+      "question": "What is the past participle of 'weave'?",
+      "options": ["wove", "woven", "weaving", "weaves"],
+      "answer": "woven"
+    },
+    {
+      "question": "Complete: Never before ___ such a challenging task.",
+      "options": ["I faced", "have I faced", "had I faced", "I had faced"],
+      "answer": "had I faced"
+    },
+    {
+      "question": "Which is correct: The proposal ___ by the board next week.",
+      "options": ["reviews", "reviewed", "will be reviewed", "had reviewed"],
+      "answer": "will be reviewed"
+    },
+    {
+      "question": "Choose the correct word: Her performance was utterly ___ and unforgettable.",
+      "options": ["captivate", "captivated", "captivating", "captivation"],
+      "answer": "captivating"
+    },
+    {
+      "question": "What is the correct question: ___ the results been published?",
+      "options": ["Have", "Are", "Were", "Had"],
+      "answer": "Have"
+    },
+    {
+      "question": "Complete: Only by ___ the issue could we find a solution.",
+      "options": ["address", "addressing", "addressed", "had addressed"],
+      "answer": "addressing"
+    },
+    {
+      "question": "What is the correct form: The painting ___ to an unknown artist.",
+      "options": ["attributes", "attributed", "was attributed", "had attributed"],
+      "answer": "was attributed"
+    },
+    {
+      "question": "Choose the correct form: Were it not for his help, we ___ the deadline.",
+      "options": ["wouldn’t meet", "wouldn’t have met", "won’t meet", "hadn’t met"],
+      "answer": "wouldn’t have met"
+    },
+    {
+      "question": "Complete: Not only ___ the race, but he also broke the record.",
+      "options": ["he won", "did he win", "had he won", "was he winning"],
+      "answer": "did he win"
+    },
+    {
+      "question": "Which is correct: The experiment ___ by the team last month.",
+      "options": ["conducts", "conducted", "was conducted", "has been conducted"],
+      "answer": "was conducted"
+    },
+    {
+      "question": "Choose the correct word: The lecture was remarkably ___ and thought-provoking.",
+      "options": ["articulate", "articulated", "articulating", "articulation"],
+      "answer": "articulate"
+    },
+    {
+      "question": "What is the correct question: ___ the new policy been implemented?",
+      "options": ["Has", "Is", "Was", "Had"],
+      "answer": "Has"
+    },
+    {
+      "question": "Complete: Under no circumstances ___ confidential information.",
+      "options": ["I would share", "would I share", "had I shared", "I had shared"],
+      "answer": "would I share"
+    },
+    {
+      "question": "What is the correct form: The book ___ for its unique perspective.",
+      "options": ["praised", "was praised", "has praised", "had praised"],
+      "answer": "was praised"
+    },
+    {
+      "question": "Choose the correct preposition: He was acquitted ___ all charges.",
+      "options": ["from", "of", "with", "for"],
+      "answer": "of"
+    },
+    {
+      "question": "What is the past participle of 'bid'?",
+      "options": ["bade", "bidden", "bidding", "bids"],
+      "answer": "bidden"
+    },
+    {
+      "question": "Complete: Rarely ___ such dedication in a student.",
+      "options": ["I have seen", "have I seen", "had I seen", "I had seen"],
+      "answer": "have I seen"
+    }
+  ]
+}

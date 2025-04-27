@@ -1,43 +1,82 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:lingonerds/core/themes/app_themes.dart';
 import 'package:lingonerds/view/widgets/elevated_button_custom.dart';
+
 class OnboardingCard extends StatelessWidget {
   final String image;
   final String title;
   final String description;
-  final void Function()? onPressed;
+  final VoidCallback? onPressed;
   final String? buttonLabel;
-  const OnboardingCard({super.key,this.onPressed,required this.image,required this.title,required this.description,this.buttonLabel});
+
+  const OnboardingCard({
+    super.key,
+    this.onPressed,
+    required this.image,
+    required this.title,
+    required this.description,
+    this.buttonLabel,
+  });
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      height: MediaQuery.sizeOf(context).height*0.80,
-      width: MediaQuery.sizeOf(context).width,
-        child: Column(
-          mainAxisSize: MainAxisSize.max,
-        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        crossAxisAlignment: CrossAxisAlignment.center,
-        children: [
-          Padding(
-            padding: const EdgeInsets.all(50.0),
-            child: Image.asset(image,fit: BoxFit.contain,),
-          ),
-          Column(
+    return Center(
+      child: SingleChildScrollView(
+        child: Padding(
+          padding: EdgeInsets.symmetric(horizontal: 20.w, vertical: 20.h),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              Text(title,style: GoogleFonts.anton(color: AppThemes.blueAppColor,fontSize: 25,),textAlign: TextAlign.center,),
-              Text(description,
-                style: GoogleFonts.poppins(
-                    color: AppThemes.blueAppColor,
-                    fontSize: 20,
-                    fontWeight: FontWeight.bold),
-                textAlign: TextAlign.center,),
+              Padding(
+                padding: EdgeInsets.all(20.h),
+                child: Image.asset(
+                  image,
+                  height: 150.h,
+                  fit: BoxFit.contain,
+                ),
+              ),
+              SizedBox(height: 16.h),
+              Column(
+                children: [
+                  ConstrainedBox(
+                    constraints: BoxConstraints(maxWidth: 350.w),
+                    child: Text(
+                      title,
+                      style: GoogleFonts.anton(
+                        color: AppThemes.blueAppColor,
+                        fontSize: 25.sp,
+                      ),
+                      textAlign: TextAlign.center,
+                    ),
+                  ),
+                  SizedBox(height: 8.h),
+                  ConstrainedBox(
+                    constraints: BoxConstraints(maxWidth: 350.w),
+                    child: Text(
+                      description,
+                      style: GoogleFonts.poppins(
+                        color: AppThemes.blueAppColor,
+                        fontSize: 18.sp,
+                        fontWeight: FontWeight.bold,
+                      ),
+                      textAlign: TextAlign.center,
+                    ),
+                  ),
+                ],
+              ),
+              SizedBox(height: 24.h),
+              ElevatedButtonCustom(
+                buttonLabel: buttonLabel,
+                onPressed: onPressed,
+              ),
             ],
           ),
-          ElevatedButtonCustom(buttonLabel:buttonLabel,onPressed:onPressed,)
-        ],
-    ),
+        ),
+      ),
     );
   }
 }

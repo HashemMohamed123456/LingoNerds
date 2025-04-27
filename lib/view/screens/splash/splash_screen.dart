@@ -17,7 +17,7 @@ class _LingoSplashScreenState extends State<LingoSplashScreen> with SingleTicker
   bool isLoggedIn=LocalData.get(key:"isLoggedIn")??false;
   late AnimationController _controller;
   late Animation<double> _opacityAnimation;
-  var languageLevel=FireStoreHandler.getUserField(FirebaseAuth.instance.currentUser!.uid,"LanguageLevel");
+  @override
   @override
   void initState() {
     super.initState();
@@ -28,28 +28,43 @@ class _LingoSplashScreenState extends State<LingoSplashScreen> with SingleTicker
     );
 
     _opacityAnimation = Tween<double>(begin: 0.0, end: 1.0).animate(_controller);
-
     _controller.forward();
 
-    // Navigate to HomeScreen after 3 seconds
-    Timer(Duration(seconds: 5), () {
-      if (isLoggedIn) {
-        if (languageLevel != null) {
-          // If language level exists, navigate to the main home screen
-          Navigator.pushNamedAndRemoveUntil(
-              context, ScreensRoutes.mainHomeScreen, (route) => false);
-        } else {
-          // If language level is null, navigate to the language test screen
-          Navigator.pushNamedAndRemoveUntil(
-              context, ScreensRoutes.languageLevelTestScreenRoute, (route) => false);
-        }
-      } else {
-        // If user is not logged in, navigate to the login screen
-        Navigator.pushNamedAndRemoveUntil(
-            context, ScreensRoutes.loginScreenRoute, (route) => false);
-      }
-    });
+    // Start async navigation logic
+    handleNavigation();
   }
+
+  Future<void> handleNavigation() async {
+    await Future.delayed(Duration(seconds: 5)); // Splash screen delay
+
+    if (isLoggedIn) {
+      var languageLevel = await FireStoreHandler.getUserField(
+        FirebaseAuth.instance.currentUser!.uid,
+        "LanguageLevel",
+      );
+
+      if (languageLevel != null) {
+        Navigator.pushNamedAndRemoveUntil(
+          context,
+          ScreensRoutes.mainHomeScreen,
+              (route) => false,
+        );
+      } else {
+        Navigator.pushNamedAndRemoveUntil(
+          context,
+          ScreensRoutes.languageLevelTestScreenRoute,
+              (route) => false,
+        );
+      }
+    } else {
+      Navigator.pushNamedAndRemoveUntil(
+        context,
+        ScreensRoutes.loginScreenRoute,
+            (route) => false,
+      );
+    }
+  }
+
 
   @override
   void dispose() {

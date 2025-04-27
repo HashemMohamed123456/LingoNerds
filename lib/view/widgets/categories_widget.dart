@@ -35,7 +35,7 @@ final CategoryModel? categoryModel;
               child: TextButton(onPressed:onPressed, child: Text(categoryModel?.categoryTitle??"",style: GoogleFonts.anton(
                   color: Colors.white,
                   fontWeight: FontWeight.bold,
-                  fontSize: 20)
+                  fontSize: 15)
               )
               ),
             )

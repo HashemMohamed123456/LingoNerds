@@ -145,7 +145,7 @@ class SignUpScreen extends StatelessWidget {
                       },
                       textInputAction: TextInputAction.next,
                       controller: AuthCubit.get(context).signUpConfirmationPasswordController,
-                      hintText: 'Please Enter Your Confirmation Password',
+                      hintText: 'Confirmation Password',
                       prefixIcon: Icon(Icons.check_box,color: Colors.white,),
                     ),  SizedBox(height: 9.h,),
                     Text('Date',style: AppThemes.lightTheme.textTheme.labelMedium,),

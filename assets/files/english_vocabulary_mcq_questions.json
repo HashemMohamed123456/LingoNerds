@@ -1,0 +1,1499 @@
+{
+  "A1": [
+    {
+      "question": "What is a word for a color?",
+      "options": ["book", "red", "table", "run"],
+      "answer": "red"
+    },
+    {
+      "question": "What is the opposite of 'big'?",
+      "options": ["small", "tall", "large", "huge"],
+      "answer": "small"
+    },
+    {
+      "question": "Which word means a number?",
+      "options": ["blue", "five", "chair", "fast"],
+      "answer": "five"
+    },
+    {
+      "question": "What is the opposite of 'hot'?",
+      "options": ["warm", "cold", "cool", "dry"],
+      "answer": "cold"
+    },
+    {
+      "question": "Which word is a food?",
+      "options": ["pen", "bread", "car", "shirt"],
+      "answer": "bread"
+    },
+    {
+      "question": "What is a word for a day of the week?",
+      "options": ["January", "Monday", "summer", "evening"],
+      "answer": "Monday"
+    },
+    {
+      "question": "Which word is a month?",
+      "options": ["Friday", "July", "morning", "winter"],
+      "answer": "July"
+    },
+    {
+      "question": "What is the opposite of 'open'?",
+      "options": ["close", "shut", "closed", "all of these"],
+      "answer": "all of these"
+    },
+    {
+      "question": "Which word is an animal?",
+      "options": ["tree", "dog", "cloud", "desk"],
+      "answer": "dog"
+    },
+    {
+      "question": "What is the opposite of 'up'?",
+      "options": ["down", "over", "under", "below"],
+      "answer": "down"
+    },
+    {
+      "question": "Which word is a fruit?",
+      "options": ["carrot", "apple", "potato", "onion"],
+      "answer": "apple"
+    },
+    {
+      "question": "What is a word for a body part?",
+      "options": ["hand", "chair", "book", "car"],
+      "answer": "hand"
+    },
+    {
+      "question": "Which word is a drink?",
+      "options": ["bread", "water", "table", "pen"],
+      "answer": "water"
+    },
+    {
+      "question": "What is the opposite of 'fast'?",
+      "options": ["quick", "slow", "rapid", "speedy"],
+      "answer": "slow"
+    },
+    {
+      "question": "Which word is a vehicle?",
+      "options": ["tree", "car", "cloud", "desk"],
+      "answer": "car"
+    },
+    {
+      "question": "What is the opposite of 'in'?",
+      "options": ["out", "over", "under", "below"],
+      "answer": "out"
+    },
+    {
+      "question": "Which word is a vegetable?",
+      "options": ["apple", "carrot", "bread", "water"],
+      "answer": "carrot"
+    },
+    {
+      "question": "What is a word for a season?",
+      "options": ["Monday", "summer", "evening", "July"],
+      "answer": "summer"
+    },
+    {
+      "question": "What is the opposite of 'old'?",
+      "options": ["new", "young", "fresh", "all of these"],
+      "answer": "all of these"
+    },
+    {
+      "question": "Which word is a piece of furniture?",
+      "options": ["table", "sky", "run", "apple"],
+      "answer": "table"
+    },
+    {
+      "question": "What is a word for a job?",
+      "options": ["teacher", "cloud", "pen", "blue"],
+      "answer": "teacher"
+    },
+    {
+      "question": "What is the opposite of 'happy'?",
+      "options": ["sad", "joyful", "excited", "glad"],
+      "answer": "sad"
+    },
+    {
+      "question": "Which word is a weather condition?",
+      "options": ["rain", "book", "chair", "dog"],
+      "answer": "rain"
+    },
+    {
+      "question": "What is a word for a family member?",
+      "options": ["mother", "car", "tree", "water"],
+      "answer": "mother"
+    },
+    {
+      "question": "What is the opposite of 'long'?",
+      "options": ["short", "tall", "wide", "big"],
+      "answer": "short"
+    },
+    {
+      "question": "Which word is a school subject?",
+      "options": ["math", "sky", "table", "apple"],
+      "answer": "math"
+    },
+    {
+      "question": "What is a word for a place?",
+      "options": ["park", "run", "blue", "pen"],
+      "answer": "park"
+    },
+    {
+      "question": "What is the opposite of 'dark'?",
+      "options": ["light", "black", "heavy", "dim"],
+      "answer": "light"
+    },
+    {
+      "question": "Which word is a sport?",
+      "options": ["football", "cloud", "book", "water"],
+      "answer": "football"
+    },
+    {
+      "question": "What is a word for a meal?",
+      "options": ["breakfast", "car", "tree", "sky"],
+      "answer": "breakfast"
+    },
+    {
+      "question": "What is the opposite of 'high'?",
+      "options": ["low", "tall", "up", "big"],
+      "answer": "low"
+    },
+    {
+      "question": "Which word is a toy?",
+      "options": ["ball", "chair", "cloud", "pen"],
+      "answer": "ball"
+    },
+    {
+      "question": "What is a word for a building?",
+      "options": ["house", "run", "blue", "apple"],
+      "answer": "house"
+    },
+    {
+      "question": "What is the opposite of 'wet'?",
+      "options": ["dry", "cold", "hot", "soft"],
+      "answer": "dry"
+    },
+    {
+      "question": "Which word is a musical instrument?",
+      "options": ["guitar", "book", "car", "tree"],
+      "answer": "guitar"
+    },
+    {
+      "question": "What is a word for a hobby?",
+      "options": ["painting", "table", "sky", "dog"],
+      "answer": "painting"
+    },
+    {
+      "question": "What is the opposite of 'near'?",
+      "options": ["far", "close", "next", "by"],
+      "answer": "far"
+    },
+    {
+      "question": "Which word is a flower?",
+      "options": ["rose", "cloud", "pen", "chair"],
+      "answer": "rose"
+    },
+    {
+      "question": "What is a word for a drink?",
+      "options": ["juice", "book", "car", "tree"],
+      "answer": "juice"
+    },
+    {
+      "question": "What is the opposite of 'clean'?",
+      "options": ["dirty", "tidy", "neat", "clear"],
+      "answer": "dirty"
+    },
+    {
+      "question": "Which word is a bird?",
+      "options": ["eagle", "table", "sky", "apple"],
+      "answer": "eagle"
+    },
+    {
+      "question": "What is a word for a tool?",
+      "options": ["hammer", "cloud", "book", "dog"],
+      "answer": "hammer"
+    },
+    {
+      "question": "What is the opposite of 'soft'?",
+      "options": ["hard", "smooth", "light", "wet"],
+      "answer": "hard"
+    },
+    {
+      "question": "Which word is a dessert?",
+      "options": ["cake", "car", "pen", "tree"],
+      "answer": "cake"
+    },
+    {
+      "question": "What is a word for a clothing item?",
+      "options": ["shirt", "book", "cloud", "table"],
+      "answer": "shirt"
+    },
+    {
+      "question": "What is the opposite of 'loud'?",
+      "options": ["quiet", "noisy", "strong", "bright"],
+      "answer": "quiet"
+    },
+    {
+      "question": "Which word is an insect?",
+      "options": ["bee", "chair", "sky", "apple"],
+      "answer": "bee"
+    },
+    {
+      "question": "What is a word for a language?",
+      "options": ["English", "car", "book", "tree"],
+      "answer": "English"
+    },
+    {
+      "question": "What is the opposite of 'full'?",
+      "options": ["empty", "heavy", "big", "light"],
+      "answer": "empty"
+    },
+    {
+      "question": "Which word is a planet?",
+      "options": ["Mars", "table", "pen", "dog"],
+      "answer": "Mars"
+    }
+  ],
+  "A2": [
+    {
+      "question": "What is the opposite of 'difficult'?",
+      "options": ["hard", "easy", "tough", "complex"],
+      "answer": "easy"
+    },
+    {
+      "question": "Which word means 'not expensive'?",
+      "options": ["cheap", "costly", "pricey", "luxury"],
+      "answer": "cheap"
+    },
+    {
+      "question": "What is a synonym for 'big'?",
+      "options": ["small", "large", "tiny", "short"],
+      "answer": "large"
+    },
+    {
+      "question": "Which word is a job?",
+      "options": ["doctor", "sky", "table", "cloud"],
+      "answer": "doctor"
+    },
+    {
+      "question": "What is the opposite of 'happy'?",
+      "options": ["sad", "joyful", "excited", "glad"],
+      "answer": "sad"
+    },
+    {
+      "question": "Which word means 'fast'?",
+      "options": ["slow", "quick", "late", "heavy"],
+      "answer": "quick"
+    },
+    {
+      "question": "What is a word for a feeling?",
+      "options": ["anger", "book", "car", "tree"],
+      "answer": "anger"
+    },
+    {
+      "question": "What is the opposite of 'long'?",
+      "options": ["short", "tall", "wide", "big"],
+      "answer": "short"
+    },
+    {
+      "question": "Which word is a type of weather?",
+      "options": ["storm", "chair", "pen", "dog"],
+      "answer": "storm"
+    },
+    {
+      "question": "What is a synonym for 'beautiful'?",
+      "options": ["ugly", "pretty", "plain", "ordinary"],
+      "answer": "pretty"
+    },
+    {
+      "question": "What is the opposite of 'safe'?",
+      "options": ["dangerous", "secure", "protected", "careful"],
+      "answer": "dangerous"
+    },
+    {
+      "question": "Which word is a hobby?",
+      "options": ["cooking", "table", "sky", "apple"],
+      "answer": "cooking"
+    },
+    {
+      "question": "What is a word for a place to shop?",
+      "options": ["market", "book", "car", "tree"],
+      "answer": "market"
+    },
+    {
+      "question": "What is the opposite of 'polite'?",
+      "options": ["rude", "kind", "friendly", "helpful"],
+      "answer": "rude"
+    },
+    {
+      "question": "Which word is an adjective?",
+      "options": ["run", "happy", "quickly", "table"],
+      "answer": "happy"
+    },
+    {
+      "question": "What is a synonym for 'tired'?",
+      "options": ["energetic", "exhausted", "active", "lively"],
+      "answer": "exhausted"
+    },
+    {
+      "question": "What is the opposite of 'strong'?",
+      "options": ["weak", "powerful", "healthy", "tough"],
+      "answer": "weak"
+    },
+    {
+      "question": "Which word is a type of transport?",
+      "options": ["bus", "cloud", "pen", "dog"],
+      "answer":         "bus"
+    },
+    {
+      "question": "What is a synonym for 'small'?",
+      "options": ["big", "tiny", "large", "huge"],
+      "answer": "tiny"
+    },
+    {
+      "question": "What is the opposite of 'rich'?",
+      "options": ["wealthy", "poor", "prosperous", "affluent"],
+      "answer": "poor"
+    },
+    {
+      "question": "Which word is a kitchen item?",
+      "options": ["spoon", "book", "car", "tree"],
+      "answer": "spoon"
+    },
+    {
+      "question": "What is a synonym for 'funny'?",
+      "options": ["serious", "hilarious", "boring", "sad"],
+      "answer": "hilarious"
+    },
+    {
+      "question": "What is the opposite of 'new'?",
+      "options": ["old", "modern", "recent", "fresh"],
+      "answer": "old"
+    },
+    {
+      "question": "Which word is a piece of jewelry?",
+      "options": ["ring", "table", "cloud", "pen"],
+      "answer": "ring"
+    },
+    {
+      "question": "What is a synonym for 'smart'?",
+      "options": ["stupid", "intelligent", "dumb", "foolish"],
+      "answer": "intelligent"
+    },
+    {
+      "question": "What is the opposite of 'quiet'?",
+      "options": ["loud", "silent", "calm", "peaceful"],
+      "answer": "loud"
+    },
+    {
+      "question": "Which word is a type of music?",
+      "options": ["jazz", "book", "car", "tree"],
+      "answer": "jazz"
+    },
+    {
+      "question": "What is a synonym for 'kind'?",
+      "options": ["mean", "generous", "cruel", "harsh"],
+      "answer": "generous"
+    },
+    {
+      "question": "What is the opposite of 'clean'?",
+      "options": ["dirty", "tidy", "neat", "clear"],
+      "answer": "dirty"
+    },
+    {
+      "question": "Which word is a type of dance?",
+      "options": ["salsa", "table", "sky", "apple"],
+      "answer": "salsa"
+    },
+    {
+      "question": "What is a synonym for 'sad'?",
+      "options": ["happy", "depressed", "cheerful", "excited"],
+      "answer": "depressed"
+    },
+    {
+      "question": "What is the opposite of 'hot'?",
+      "options": ["warm", "cold", "cool", "mild"],
+      "answer": "cold"
+    },
+    {
+      "question": "Which word is a type of fruit?",
+      "options": ["banana", "book", "car", "tree"],
+      "answer": "banana"
+    },
+    {
+      "question": "What is a synonym for 'fast'?",
+      "options": ["slow", "rapid", "late", "heavy"],
+      "answer": "rapid"
+    },
+    {
+      "question": "What is the opposite of 'heavy'?",
+      "options": ["light", "big", "large", "huge"],
+      "answer": "light"
+    },
+    {
+      "question": "Which word is a type of animal?",
+      "options": ["tiger", "table", "cloud", "pen"],
+      "answer": "tiger"
+    },
+    {
+      "question": "What is a synonym for 'pretty'?",
+      "options": ["ugly", "lovely", "plain", "ordinary"],
+      "answer": "lovely"
+    },
+    {
+      "question": "What is the opposite of 'early'?",
+      "options": ["late", "soon", "quick", "fast"],
+      "answer": "late"
+    },
+    {
+      "question": "Which word is a type of vegetable?",
+      "options": ["broccoli", "book", "car", "tree"],
+      "answer": "broccoli"
+    },
+    {
+      "question": "What is a synonym for 'angry'?",
+      "options": ["happy", "furious", "calm", "peaceful"],
+      "answer": "furious"
+    },
+    {
+      "question": "What is the opposite of 'big'?",
+      "options": ["small", "large", "huge", "giant"],
+      "answer": "small"
+    },
+    {
+      "question": "Which word is a type of flower?",
+      "options": ["tulip", "table", "sky", "apple"],
+      "answer": "tulip"
+    },
+    {
+      "question": "What is a synonym for 'tall'?",
+      "options": ["short", "high", "small", "low"],
+      "answer": "high"
+    },
+    {
+      "question": "What is the opposite of 'dry'?",
+      "options": ["wet", "cold", "hot", "soft"],
+      "answer": "wet"
+    },
+    {
+      "question": "Which word is a type of drink?",
+      "options": ["coffee", "book", "car", "tree"],
+      "answer": "coffee"
+    },
+    {
+      "question": "What is a synonym for 'good'?",
+      "options": ["bad", "excellent", "poor", "awful"],
+      "answer": "excellent"
+    },
+    {
+      "question": "What is the opposite of 'bright'?",
+      "options": ["dim", "light", "shiny", "glowing"],
+      "answer": "dim"
+    },
+    {
+      "question": "Which word is a type of sport?",
+      "options": ["tennis", "table", "cloud", "pen"],
+      "answer": "tennis"
+    },
+    {
+      "question": "What is a synonym for 'cold'?",
+      "options": ["hot", "chilly", "warm", "mild"],
+      "answer": "chilly"
+    },
+    {
+      "question": "What is the opposite of 'full'?",
+      "options": ["empty", "heavy", "big", "light"],
+      "answer": "empty"
+    }
+  ],
+  "B1": [
+    {
+      "question": "What is a synonym for 'happy'?",
+      "options": ["sad", "joyful", "angry", "tired"],
+      "answer": "joyful"
+    },
+    {
+      "question": "What is the opposite of 'generous'?",
+      "options": ["kind", "selfish", "friendly", "helpful"],
+      "answer": "selfish"
+    },
+    {
+      "question": "Which word means 'very tired'?",
+      "options": ["exhausted", "energetic", "lively", "active"],
+      "answer": "exhausted"
+    },
+    {
+      "question": "What is a synonym for 'difficult'?",
+      "options": ["easy", "challenging", "simple", "clear"],
+      "answer": "challenging"
+    },
+    {
+      "question": "What is the opposite of 'polite'?",
+      "options": ["rude", "kind", "friendly", "helpful"],
+      "answer": "rude"
+    },
+    {
+      "question": "Which word means 'very surprising'?",
+      "options": ["boring", "shocking", "normal", "usual"],
+      "answer": "shocking"
+    },
+    {
+      "question": "What is a synonym for 'fast'?",
+      "options": ["slow", "quick", "late", "heavy"],
+      "answer": "quick"
+    },
+    {
+      "question": "What is the opposite of 'safe'?",
+      "options": ["dangerous", "secure", "protected", "careful"],
+      "answer": "dangerous"
+    },
+    {
+      "question": "Which word means 'very interesting'?",
+      "options": ["dull", "fascinating", "boring", "ordinary"],
+      "answer": "fascinating"
+    },
+    {
+      "question": "What is a synonym for 'big'?",
+      "options": ["small", "huge", "tiny", "little"],
+      "answer": "huge"
+    },
+    {
+      "question": "What is the opposite of 'strong'?",
+      "options": ["weak", "powerful", "healthy", "tough"],
+      "answer": "weak"
+    },
+    {
+      "question": "Which word means 'very beautiful'?",
+      "options": ["ugly", "gorgeous", "plain", "ordinary"],
+      "answer": "gorgeous"
+    },
+    {
+      "question": "What is a synonym for 'smart'?",
+      "options": ["stupid", "clever", "dumb", "foolish"],
+      "answer": "clever"
+    },
+    {
+      "question": "What is the opposite of 'happy'?",
+      "options": ["sad", "cheerful", "excited", "glad"],
+      "answer": "sad"
+    },
+    {
+      "question": "Which word means 'very funny'?",
+      "options": ["serious", "hilarious", "boring", "sad"],
+      "answer": "hilarious"
+    },
+    {
+      "question": "What is a synonym for 'tired'?",
+      "options": ["energetic", "weary", "active", "lively"],
+      "answer": "weary"
+    },
+    {
+      "question": "What is the opposite of 'rich'?",
+      "options": ["wealthy", "poor", "prosperous", "affluent"],
+      "answer": "poor"
+    },
+    {
+      "question": "Which word means 'very kind'?",
+      "options": ["mean", "compassionate", "cruel", "harsh"],
+      "answer": "compassionate"
+    },
+    {
+      "question": "What is a synonym for 'small'?",
+      "options": ["big", "tiny", "large", "huge"],
+      "answer": "tiny"
+    },
+    {
+      "question": "What is the opposite of 'clean'?",
+      "options": ["dirty", "tidy", "neat", "clear"],
+      "answer": "dirty"
+    },
+    {
+      "question": "Which word means 'very angry'?",
+      "options": ["calm", "furious", "peaceful", "happy"],
+      "answer": "furious"
+    },
+    {
+      "question": "What is a synonym for 'pretty'?",
+      "options": ["ugly", "lovely", "plain", "ordinary"],
+      "answer": "lovely"
+    },
+    {
+      "question": "What is the opposite of 'hot'?",
+      "options": ["warm", "cold", "cool", "mild"],
+      "answer": "cold"
+    },
+    {
+      "question": "Which word means 'very sad'?",
+      "options": ["cheerful", "miserable", "happy", "excited"],
+      "answer": "miserable"
+    },
+    {
+      "question": "What is a synonym for 'good'?",
+      "options": ["bad", "excellent", "poor", "awful"],
+      "answer": "excellent"
+    },
+    {
+      "question": "What is the opposite of 'new'?",
+      "options": ["old", "modern", "recent", "fresh"],
+      "answer": "old"
+    },
+    {
+      "question": "Which word means 'very fast'?",
+      "options": ["slow", "swift", "late", "heavy"],
+      "answer": "swift"
+    },
+    {
+      "question": "What is a synonym for 'quiet'?",
+      "options": ["loud", "silent", "noisy", "talkative"],
+      "answer": "silent"
+    },
+    {
+      "question": "What is the opposite of 'big'?",
+      "options": ["small", "large", "huge", "giant"],
+      "answer": "small"
+    },
+    {
+      "question": "Which word means 'very bright'?",
+      "options": ["dim", "radiant", "dull", "faint"],
+      "answer": "radiant"
+    },
+    {
+      "question": "What is a synonym for 'strong'?",
+      "options": ["weak", "powerful", "fragile", "delicate"],
+      "answer": "powerful"
+    },
+    {
+      "question": "What is the opposite of 'polite'?",
+      "options": ["rude", "courteous", "friendly", "kind"],
+      "answer": "rude"
+    },
+    {
+      "question": "Which word means 'very happy'?",
+      "options": ["sad", "ecstatic", "angry", "tired"],
+      "answer": "ecstatic"
+    },
+    {
+      "question": "What is a synonym for 'difficult'?",
+      "options": ["easy", "tough", "simple", "clear"],
+      "answer": "tough"
+    },
+    {
+      "question": "What is the opposite of 'safe'?",
+      "options": ["dangerous", "secure", "protected", "careful"],
+      "answer": "dangerous"
+    },
+    {
+      "question": "Which word means 'very beautiful'?",
+      "options": ["ugly", "stunning", "plain", "ordinary"],
+      "answer": "stunning"
+    },
+    {
+      "question": "What is a synonym for 'smart'?",
+      "options": ["stupid", "brilliant", "dumb", "foolish"],
+      "answer": "brilliant"
+    },
+    {
+      "question": "What is the opposite of 'clean'?",
+      "options": ["dirty", "tidy", "neat", "clear"],
+      "answer": "dirty"
+    },
+    {
+      "question": "Which word means 'very tired'?",
+      "options": ["energetic", "fatigued", "lively", "active"],
+      "answer": "fatigued"
+    },
+    {
+      "question": "What is a synonym for 'happy'?",
+      "options": ["sad", "delighted", "angry", "tired"],
+      "answer": "delighted"
+    },
+    {
+      "question": "What is the opposite of 'rich'?",
+      "options": ["wealthy", "poor", "prosperous", "affluent"],
+      "answer": "poor"
+    },
+    {
+      "question": "Which word means 'very kind'?",
+      "options": ["mean", "benevolent", "cruel", "harsh"],
+      "answer": "benevolent"
+    },
+    {
+      "question": "What is a synonym for 'small'?",
+      "options": ["big", "petite", "large", "huge"],
+      "answer": "petite"
+    },
+    {
+      "question": "What is the opposite of 'hot'?",
+      "options": ["warm", "cold", "cool", "mild"],
+      "answer": "cold"
+    },
+    {
+      "question": "Which word means 'very funny'?",
+      "options": ["serious", "amusing", "boring", "sad"],
+      "answer": "amusing"
+    },
+    {
+      "question": "What is a synonym for 'good'?",
+      "options": ["bad", "superb", "poor", "awful"],
+      "answer": "superb"
+    },
+    {
+      "question": "What is the opposite of 'new'?",
+      "options": ["old", "modern", "recent", "fresh"],
+      "answer": "old"
+    },
+    {
+      "question": "Which word means 'very fast'?",
+      "options": ["slow", "rapid", "late", "heavy"],
+      "answer": "rapid"
+    },
+    {
+      "question": "What is a synonym for 'quiet'?",
+      "options": ["loud", "tranquil", "noisy", "talkative"],
+      "answer": "tranquil"
+    }
+  ],
+  "B2": [
+    {
+      "question": "What is a synonym for 'important'?",
+      "options": ["minor", "significant", "small", "trivial"],
+      "answer": "significant"
+    },
+    {
+      "question": "What is the opposite of 'reliable'?",
+      "options": ["dependable", "unreliable", "trustworthy", "responsible"],
+      "answer": "unreliable"
+    },
+    {
+      "question": "Which word means 'very impressive'?",
+      "options": ["ordinary", "remarkable", "common", "usual"],
+      "answer": "remarkable"
+    },
+    {
+      "question": "What is a synonym for 'beautiful'?",
+      "options": ["ugly", "gorgeous", "plain", "ordinary"],
+      "answer": "gorgeous"
+    },
+    {
+      "question": "What is the opposite of 'confident'?",
+      "options": ["sure", "insecure", "brave", "bold"],
+      "answer": "insecure"
+    },
+    {
+      "question": "Which word means 'very exciting'?",
+      "options": ["boring", "thrilling", "dull", "tedious"],
+      "answer": "thrilling"
+    },
+    {
+      "question": "What is a synonym for 'difficult'?",
+      "options": ["easy", "challenging", "simple", "clear"],
+      "answer": "challenging"
+    },
+    {
+      "question": "What is the opposite of 'honest'?",
+      "options": ["truthful", "dishonest", "sincere", "frank"],
+      "answer": "dishonest"
+    },
+    {
+      "question": "Which word means 'very generous'?",
+      "options": ["selfish", "charitable", "stingy", "greedy"],
+      "answer": "charitable"
+    },
+    {
+      "question": "What is a synonym for 'tired'?",
+      "options": ["energetic", "exhausted", "active", "lively"],
+      "answer": "exhausted"
+    },
+    {
+      "question": "What is the opposite of 'calm'?",
+      "options": ["peaceful", "nervous", "quiet", "relaxed"],
+      "answer": "nervous"
+    },
+    {
+      "question": "Which word means 'very intelligent'?",
+      "options": ["stupid", "brilliant", "dumb", "foolish"],
+      "answer": "brilliant"
+    },
+    {
+      "question": "What is a synonym for 'happy'?",
+      "options": ["sad", "cheerful", "angry", "tired"],
+      "answer": "cheerful"
+    },
+    {
+      "question": "What is the opposite of 'simple'?",
+      "options": ["easy", "complicated", "clear", "plain"],
+      "answer": "complicated"
+    },
+    {
+      "question": "Which word means 'very funny'?",
+      "options": ["serious", "hilarious", "boring", "sad"],
+      "answer": "hilarious"
+    },
+    {
+      "question": "What is a synonym for 'strong'?",
+      "options": ["weak", "powerful", "fragile", "delicate"],
+      "answer": "powerful"
+    },
+    {
+      "question": "What is the opposite of 'polite'?",
+      "options": ["rude", "courteous", "friendly", "kind"],
+      "answer": "rude"
+    },
+    {
+      "question": "Which word means 'very beautiful'?",
+      "options": ["ugly", "stunning", "plain", "ordinary"],
+      "answer": "stunning"
+    },
+    {
+      "question": "What is a synonym for 'smart'?",
+      "options": ["stupid", "clever", "dumb", "foolish"],
+      "answer": "clever"
+    },
+    {
+      "question": "What is the opposite of 'generous'?",
+      "options": ["kind", "selfish", "friendly", "helpful"],
+      "answer": "selfish"
+    },
+    {
+      "question": "Which word means 'very surprising'?",
+      "options": ["boring", "astonishing", "normal", "usual"],
+      "answer": "astonishing"
+    },
+    {
+      "question": "What is a synonym for 'difficult'?",
+      "options": ["easy", "tough", "simple", "clear"],
+      "answer": "tough"
+    },
+    {
+      "question": "What is the opposite of 'safe'?",
+      "options": ["dangerous", "secure", "protected", "careful"],
+      "answer": "dangerous"
+    },
+    {
+      "question": "Which word means 'very kind'?",
+      "options": ["mean", "compassionate", "cruel", "harsh"],
+      "answer": "compassionate"
+    },
+    {
+      "question": "What is a synonym for 'small'?",
+      "options": ["big", "tiny", "large", "huge"],
+      "answer": "tiny"
+    },
+    {
+      "question": "What is the opposite of 'happy'?",
+      "options": ["sad", "joyful", "excited", "glad"],
+      "answer": "sad"
+    },
+    {
+      "question": "Which word means 'very fast'?",
+      "options": ["slow", "swift", "late", "heavy"],
+      "answer": "swift"
+    },
+    {
+      "question": "What is a synonym for 'quiet'?",
+      "options": ["loud", "silent", "noisy", "talkative"],
+      "answer": "silent"
+    },
+    {
+      "question": "What is the opposite of 'big'?",
+      "options": ["small", "large", "huge", "giant"],
+      "answer": "small"
+    },
+    {
+      "question": "Which word means 'very bright'?",
+      "options": ["dim", "radiant", "dull", "faint"],
+      "answer": "radiant"
+    },
+    {
+      "question": "What is a synonym for 'good'?",
+      "options": ["bad", "excellent", "poor", "awful"],
+      "answer": "excellent"
+    },
+    {
+      "question": "What is the opposite of 'new'?",
+      "options": ["old", "modern", "recent", "fresh"],
+      "answer": "old"
+    },
+    {
+      "question": "Which word means 'very tired'?",
+      "options": ["energetic", "fatigued", "lively", "active"],
+      "answer": "fatigued"
+    },
+    {
+      "question": "What is a synonym for 'pretty'?",
+      "options": ["ugly", "lovely", "plain", "ordinary"],
+      "answer": "lovely"
+    },
+    {
+      "question": "What is the opposite of 'hot'?",
+      "options": ["warm", "cold", "cool", "mild"],
+      "answer": "cold"
+    },
+    {
+      "question": "Which word means 'very sad'?",
+      "options": ["cheerful", "miserable", "happy", "excited"],
+      "answer": "miserable"
+    },
+    {
+      "question": "What is a synonym for 'strong'?",
+      "options": ["weak", "mighty", "fragile", "delicate"],
+      "answer": "mighty"
+    },
+    {
+      "question": "What is the opposite of 'polite'?",
+      "options": ["rude", "courteous", "friendly", "kind"],
+      "answer": "rude"
+    },
+    {
+      "question": "Which word means 'very happy'?",
+      "options": ["sad", "ecstatic", "angry", "tired"],
+      "answer": "ecstatic"
+    },
+    {
+      "question": "What is a synonym for 'difficult'?",
+      "options": ["easy", "arduous", "simple", "clear"],
+      "answer": "arduous"
+    },
+    {
+      "question": "What is the opposite of 'safe'?",
+      "options": ["dangerous", "secure", "protected", "careful"],
+      "answer": "dangerous"
+    },
+    {
+      "question": "Which word means 'very beautiful'?",
+      "options": ["ugly", "exquisite", "plain", "ordinary"],
+      "answer": "exquisite"
+    },
+    {
+      "question": "What is a synonym for 'smart'?",
+      "options": ["stupid", "ingenious", "dumb", "foolish"],
+      "answer": "ingenious"
+    },
+    {
+      "question": "What is the opposite of 'generous'?",
+      "options": ["kind", "stingy", "friendly", "helpful"],
+      "answer": "stingy"
+    },
+    {
+      "question": "Which word means 'very surprising'?",
+      "options": ["boring", "astounding", "normal", "usual"],
+      "answer": "astounding"
+    },
+    {
+      "question": "What is a synonym for 'happy'?",
+      "options": ["sad", "delighted", "angry", "tired"],
+      "answer": "delighted"
+    },
+    {
+      "question": "What is the opposite of 'rich'?",
+      "options": ["wealthy", "poor", "prosperous", "affluent"],
+      "answer": "poor"
+    },
+    {
+      "question": "Which word means 'very kind'?",
+      "options": ["mean", "benevolent", "cruel", "harsh"],
+      "answer": "benevolent"
+    },
+    {
+      "question": "What is a synonym for 'small'?",
+      "options": ["big", "petite", "large", "huge"],
+      "answer": "petite"
+    },
+    {
+      "question": "What is the opposite of 'hot'?",
+      "options": ["warm", "cold", "cool", "mild"],
+      "answer": "cold"
+    }
+  ],
+  "C1": [
+    {
+      "question": "What is a synonym for 'persistent'?",
+      "options": ["temporary", "determined", "weak", "irregular"],
+      "answer": "determined"
+    },
+    {
+      "question": "What is the opposite of 'meticulous'?",
+      "options": ["careful", "careless", "precise", "thorough"],
+      "answer": "careless"
+    },
+    {
+      "question": "Which word means 'very convincing'?",
+      "options": ["doubtful", "persuasive", "uncertain", "hesitant"],
+      "answer": "persuasive"
+    },
+    {
+      "question": "What is a synonym for 'ambitious'?",
+      "options": ["lazy", "driven", "careless", "modest"],
+      "answer": "driven"
+    },
+    {
+      "question": "What is the opposite of 'optimistic'?",
+      "options": ["hopeful", "pessimistic", "cheerful", "confident"],
+      "answer": "pessimistic"
+    },
+    {
+      "question": "Which word means 'very controversial'?",
+      "options": ["agreeable", "disputable", "acceptable", "unquestionable"],
+      "answer": "disputable"
+    },
+    {
+      "question": "What is a synonym for 'generous'?",
+      "options": ["selfish", "magnanimous", "stingy", "greedy"],
+      "answer": "magnanimous"
+    },
+    {
+      "question": "What is the opposite of 'relevant'?",
+      "options": ["important", "irrelevant", "significant", "related"],
+      "answer": "irrelevant"
+    },
+    {
+      "question": "Which word means 'very confusing'?",
+      "options": ["clear", "bewildering", "simple", "straightforward"],
+      "answer": "bewildering"
+    },
+    {
+      "question": "What is a synonym for 'reliable'?",
+      "options": ["untrustworthy", "dependable", "unstable", "irresponsible"],
+      "answer": "dependable"
+    },
+    {
+      "question": "What is the opposite of 'flexible'?",
+      "options": ["adaptable", "rigid", "versatile", "open"],
+      "answer": "rigid"
+    },
+    {
+      "question": "Which word means 'very innovative'?",
+      "options": ["traditional", "groundbreaking", "conventional", "ordinary"],
+      "answer": "groundbreaking"
+    },
+    {
+      "question": "What is a synonym for 'challenging'?",
+      "options": ["easy", "demanding", "simple", "straightforward"],
+      "answer": "demanding"
+    },
+    {
+      "question": "What is the opposite of 'confident'?",
+      "options": ["sure", "insecure", "brave", "bold"],
+      "answer": "insecure"
+    },
+    {
+      "question": "Which word means 'very inspiring'?",
+      "options": ["dull", "motivating", "boring", "tedious"],
+      "answer": "motivating"
+    },
+    {
+      "question": "What is a synonym for 'important'?",
+      "options": ["minor", "crucial", "small", "trivial"],
+      "answer": "crucial"
+    },
+    {
+      "question": "What is the opposite of 'reliable'?",
+      "options": ["dependable", "unreliable", "trustworthy", "responsible"],
+      "answer": "unreliable"
+    },
+    {
+      "question": "Which word means 'very impressive'?",
+      "options": ["ordinary", "spectacular", "common", "usual"],
+      "answer": "spectacular"
+    },
+    {
+      "question": "What is a synonym for 'beautiful'?",
+      "options": ["ugly", "exquisite", "plain", "ordinary"],
+      "answer": "exquisite"
+    },
+    {
+      "question": "What is the opposite of 'persistent'?",
+      "options": ["determined", "inconsistent", "resolute", "steadfast"],
+      "answer": "inconsistent"
+    },
+    {
+      "question": "Which word means 'very intelligent'?",
+      "options": ["stupid", "profound", "dumb", "foolish"],
+      "answer": "profound"
+    },
+    {
+      "question": "What is a synonym for 'happy'?",
+      "options": ["sad", "elated", "angry", "tired"],
+      "answer": "elated"
+    },
+    {
+      "question": "What is the opposite of 'meticulous'?",
+      "options": ["careful", "sloppy", "precise", "thorough"],
+      "answer": "sloppy"
+    },
+    {
+      "question": "Which word means 'very convincing'?",
+      "options": ["doubtful", "compelling", "uncertain", "hesitant"],
+      "answer": "compelling"
+    },
+    {
+      "question": "What is a synonym for 'ambitious'?",
+      "options": ["lazy", "aspiring", "careless", "modest"],
+      "answer": "aspiring"
+    },
+    {
+      "question": "What is the opposite of 'optimistic'?",
+      "options": ["hopeful", "gloomy", "cheerful", "confident"],
+      "answer": "gloomy"
+    },
+    {
+      "question": "Which word means 'very controversial'?",
+      "options": ["agreeable", "contentious", "acceptable", "unquestionable"],
+      "answer": "contentious"
+    },
+    {
+      "question": "What is a synonym for 'generous'?",
+      "options": ["selfish", "altruistic", "stingy", "greedy"],
+      "answer": "altruistic"
+    },
+    {
+      "question": "What is the opposite of 'relevant'?",
+      "options": ["important", "extraneous", "significant", "related"],
+      "answer": "extraneous"
+    },
+    {
+      "question": "Which word means 'very confusing'?",
+      "options": ["clear", "perplexing", "simple", "straightforward"],
+      "answer": "perplexing"
+    },
+    {
+      "question": "What is a synonym for 'reliable'?",
+      "options": ["untrustworthy", "trustworthy", "unstable", "irresponsible"],
+      "answer": "trustworthy"
+    },
+    {
+      "question": "What is the opposite of 'flexible'?",
+      "options": ["adaptable", "inflexible", "versatile", "open"],
+      "answer": "inflexible"
+    },
+    {
+      "question": "Which word means 'very innovative'?",
+      "options": ["traditional", "pioneering", "conventional", "ordinary"],
+      "answer": "pioneering"
+    },
+    {
+      "question": "What is a synonym for 'challenging'?",
+      "options": ["easy", "formidable", "simple", "straightforward"],
+      "answer": "formidable"
+    },
+    {
+      "question": "What is the opposite of 'confident'?",
+      "options": ["sure", "timid", "brave", "bold"],
+      "answer": "timid"
+    },
+    {
+      "question": "Which word means 'very inspiring'?",
+      "options": ["dull", "uplifting", "boring", "tedious"],
+      "answer": "uplifting"
+    },
+    {
+      "question": "What is a synonym for 'important'?",
+      "options": ["minor", "vital", "small", "trivial"],
+      "answer": "vital"
+    },
+    {
+      "question": "What is the opposite of 'reliable'?",
+      "options": ["dependable", "erratic", "trustworthy", "responsible"],
+      "answer": "erratic"
+    },
+    {
+      "question": "Which word means 'very impressive'?",
+      "options": ["ordinary", "awe-inspiring", "common", "usual"],
+      "answer": "awe-inspiring"
+    },
+    {
+      "question": "What is a synonym for 'beautiful'?",
+      "options": ["ugly", "ravishing", "plain", "ordinary"],
+      "answer": "ravishing"
+    },
+    {
+      "question": "What is the opposite of 'persistent'?",
+      "options": ["determined", "fickle", "resolute", "steadfast"],
+      "answer": "fickle"
+    },
+    {
+      "question": "Which word means 'very intelligent'?",
+      "options": ["stupid", "astute", "dumb", "foolish"],
+      "answer": "astute"
+    },
+    {
+      "question": "What is a synonym for 'happy'?",
+      "options": ["sad", "jubilant", "angry", "tired"],
+      "answer": "jubilant"
+    },
+    {
+      "question": "What is the opposite of 'meticulous'?",
+      "options": ["careful", "negligent", "precise", "thorough"],
+      "answer": "negligent"
+    },
+    {
+      "question": "Which word means 'very convincing'?",
+      "options": ["doubtful", "cogent", "uncertain", "hesitant"],
+      "answer": "cogent"
+    },
+    {
+      "question": "What is a synonym for 'ambitious'?",
+      "options": ["lazy", "enterprising", "careless", "modest"],
+      "answer": "enterprising"
+    },
+    {
+      "question": "What is the opposite of 'optimistic'?",
+      "options": ["hopeful", "cynical", "cheerful", "confident"],
+      "answer": "cynical"
+    },
+    {
+      "question": "Which word means 'very controversial'?",
+      "options": ["agreeable", "polarizing", "acceptable", "unquestionable"],
+      "answer": "polarizing"
+    },
+    {
+      "question": "What is a synonym for 'generous'?",
+      "options": ["selfish", "philanthropic", "stingy", "greedy"],
+      "answer": "philanthropic"
+    }
+  ],
+  "C2": [
+    {
+      "question": "What is a synonym for 'ubiquitous'?",
+      "options": ["rare", "widespread", "limited", "scarce"],
+      "answer": "widespread"
+    },
+    {
+      "question": "What is the opposite of 'pragmatic'?",
+      "options": ["realistic", "impractical", "sensible", "logical"],
+      "answer": "impractical"
+    },
+    {
+      "question": "Which word means 'very eloquent'?",
+      "options": ["inarticulate", "articulate", "mute", "silent"],
+      "answer": "articulate"
+    },
+    {
+      "question": "What is a synonym for 'meticulous'?",
+      "options": ["careless", "scrupulous", "hasty", "sloppy"],
+      "answer": "scrupulous"
+    },
+    {
+      "question": "What is the opposite of 'articulate'?",
+      "options": ["eloquent", "inarticulate", "clear", "expressive"],
+      "answer": "inarticulate"
+    },
+    {
+      "question": "Which word means 'very erudite'?",
+      "options": ["ignorant", "learned", "uneducated", "illiterate"],
+      "answer": "learned"
+    },
+    {
+      "question": "What is a synonym for 'profound'?",
+      "options": ["shallow", "deep", "simple", "basic"],
+      "answer": "deep"
+    },
+    {
+      "question": "What is the opposite of 'coherent'?",
+      "options": ["clear", "incoherent", "logical", "organized"],
+      "answer": "incoherent"
+    },
+    {
+      "question": "Which word means 'very compelling'?",
+      "options": ["unconvincing", "captivating", "dull", "boring"],
+      "answer": "captivating"
+    },
+    {
+      "question": "What is a synonym for 'resilient'?",
+      "options": ["fragile", "buoyant", "weak", "delicate"],
+      "answer": "buoyant"
+    },
+    {
+      "question": "What is the opposite of 'scrupulous'?",
+      "options": ["careful", "unethical", "honest", "precise"],
+      "answer": "unethical"
+    },
+    {
+      "question": "Which word means 'very insightful'?",
+      "options": ["ignorant", "perceptive", "unaware", "oblivious"],
+      "answer": "perceptive"
+    },
+    {
+      "question": "What is a synonym for 'ephemeral'?",
+      "options": ["permanent", "fleeting", "lasting", "enduring"],
+      "answer": "fleeting"
+    },
+    {
+      "question": "What is the opposite of 'benevolent'?",
+      "options": ["kind", "malevolent", "generous", "compassionate"],
+      "answer": "malevolent"
+    },
+    {
+      "question": "Which word means 'very captivating'?",
+      "options": ["boring", "mesmerizing", "dull", "tedious"],
+      "answer": "mesmerizing"
+    },
+    {
+      "question": "What is a synonym for 'ubiquitous'?",
+      "options": ["rare", "omnipresent", "limited", "scarce"],
+      "answer": "omnipresent"
+    },
+    {
+      "question": "What is the opposite of 'pragmatic'?",
+      "options": ["realistic", "unrealistic", "sensible", "logical"],
+      "answer": "unrealistic"
+    },
+    {
+      "question": "Which word means 'very eloquent'?",
+      "options": ["inarticulate", "fluent", "mute", "silent"],
+      "answer": "fluent"
+    },
+    {
+      "question": "What is a synonym for 'meticulous'?",
+      "options": ["careless", "painstaking", "hasty", "sloppy"],
+      "answer": "painstaking"
+    },
+    {
+      "question": "What is the opposite of 'articulate'?",
+      "options": ["eloquent", "mumbled", "clear", "expressive"],
+      "answer": "mumbled"
+    },
+    {
+      "question": "Which word means 'very erudite'?",
+      "options": ["ignorant", "scholarly", "uneducated", "illiterate"],
+      "answer": "scholarly"
+    },
+    {
+      "question": "What is a synonym for 'profound'?",
+      "options": ["shallow", "insightful", "simple", "basic"],
+      "answer": "insightful"
+    },
+    {
+      "question": "What is the opposite of 'coherent'?",
+      "options": ["clear", "disjointed", "logical", "organized"],
+      "answer": "disjointed"
+    },
+    {
+      "question": "Which word means 'very compelling'?",
+      "options": ["unconvincing", "riveting", "dull", "boring"],
+      "answer": "riveting"
+    },
+    {
+      "question": "What is a synonym for 'resilient'?",
+      "options": ["fragile", "adaptable", "weak", "delicate"],
+      "answer": "adaptable"
+    },
+    {
+      "question": "What is the opposite of 'scrupulous'?",
+      "options": ["careful", "dishonest", "honest", "precise"],
+      "answer": "dishonest"
+    },
+    {
+      "question": "Which word means 'very insightful'?",
+      "options": ["ignorant", "discerning", "unaware", "oblivious"],
+      "answer": "discerning"
+    },
+    {
+      "question": "What is a synonym for 'ephemeral'?",
+      "options": ["permanent", "transient", "lasting", "enduring"],
+      "answer": "transient"
+    },
+    {
+      "question": "What is the opposite of 'benevolent'?",
+      "options": ["kind", "malicious", "generous", "compassionate"],
+      "answer": "malicious"
+    },
+    {
+      "question": "Which word means 'very captivating'?",
+      "options": ["boring", "enthralling", "dull", "tedious"],
+      "answer": "enthralling"
+    },
+    {
+      "question": "What is a synonym for 'ubiquitous'?",
+      "options": ["rare", "pervasive", "limited", "scarce"],
+      "answer": "pervasive"
+    },
+    {
+      "question": "What is the opposite of 'pragmatic'?",
+      "options": ["realistic", "idealistic", "sensible", "logical"],
+      "answer": "idealistic"
+    },
+    {
+      "question": "Which word means 'very eloquent'?",
+      "options": ["inarticulate", "persuasive", "mute", "silent"],
+      "answer": "persuasive"
+    },
+    {
+      "question": "What is a synonym for 'meticulous'?",
+      "options": ["careless", "fastidious", "hasty", "sloppy"],
+      "answer": "fastidious"
+    },
+    {
+      "question": "What is the opposite of 'articulate'?",
+      "options": ["eloquent", "unintelligible", "clear", "expressive"],
+      "answer": "unintelligible"
+    },
+    {
+      "question": "Which word means 'very erudite'?",
+      "options": ["ignorant", "knowledgeable", "uneducated", "illiterate"],
+      "answer": "knowledgeable"
+    },
+    {
+      "question": "What is a synonym for 'profound'?",
+      "options": ["shallow", "penetrating", "simple", "basic"],
+      "answer": "penetrating"
+    },
+    {
+      "question": "What is the opposite of 'coherent'?",
+      "options": ["clear", "confused", "logical", "organized"],
+      "answer": "confused"
+    },
+    {
+      "question": "Which word means 'very compelling'?",
+      "options": ["unconvincing", "engrossing", "dull", "boring"],
+      "answer": "engrossing"
+    },
+    {
+      "question": "What is a synonym for 'resilient'?",
+      "options": ["fragile", "buoyant", "weak", "delicate"],
+      "answer": "buoyant"
+    },
+    {
+      "question": "What is the opposite of 'scrupulous'?",
+      "options": ["careful", "unprincipled", "honest", "precise"],
+      "answer": "unprincipled"
+    },
+    {
+      "question": "Which word means 'very insightful'?",
+      "options": ["ignorant", "sagacious", "unaware", "oblivious"],
+      "answer": "sagacious"
+    },
+    {
+      "question": "What is a synonym for 'ephemeral'?",
+      "options": ["permanent", "evanescent", "lasting", "enduring"],
+      "answer": "evanescent"
+    },
+    {
+      "question": "What is the opposite of 'benevolent'?",
+      "options": ["kind", "spiteful", "generous", "compassionate"],
+      "answer": "spiteful"
+    },
+    {
+      "question": "Which word means 'very captivating'?",
+      "options": ["boring", "spellbinding", "dull", "tedious"],
+      "answer": "spellbinding"
+    },
+    {
+      "question": "What is a synonym for 'ubiquitous'?",
+      "options": ["rare", "universal", "limited", "scarce"],
+      "answer": "universal"
+    },
+    {
+      "question": "What is the opposite of 'pragmatic'?",
+      "options": ["realistic", "visionary", "sensible", "logical"],
+      "answer": "visionary"
+    },
+    {
+      "question": "Which word means 'very eloquent'?",
+      "options": ["inarticulate", "rhetorical", "mute", "silent"],
+      "answer": "rhetorical"
+    },
+    {
+      "question": "What is a synonym for 'meticulous'?",
+      "options": ["careless", "assiduous", "hasty", "sloppy"],
+      "answer": "assiduous"
+    }
+  ]
+}
