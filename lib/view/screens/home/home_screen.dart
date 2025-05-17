@@ -198,7 +198,7 @@ class HomeScreen extends StatelessWidget {
                           itemCount: categoriesList.length,
                           itemBuilder: (context, index) {
                             return CategoriesWidget(
-                              onPressed: () {
+                              onTap: () {
                                 if (categoriesList[index].categoryTitle == "Level Exam") {
                                   Navigator.pushNamed(context, ScreensRoutes.vocabularyTestsScreenRoute).then((result) {
                                     if (result == true) {

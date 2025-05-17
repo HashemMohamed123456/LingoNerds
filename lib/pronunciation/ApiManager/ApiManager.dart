@@ -11,9 +11,9 @@ class ApiManager {
 
   ApiManager({Dio? dio})
       : _dio = dio ?? Dio(BaseOptions(
-    baseUrl: "http://10.0.2.2:8000/", // Change to your API URL
-    connectTimeout: const Duration(seconds: 40),
-    receiveTimeout: const Duration(seconds: 40),
+    baseUrl: "http://172.20.10.4:8080/", // Change to your API URL
+    connectTimeout: const Duration(seconds: 60),
+    receiveTimeout: const Duration(seconds: 60),
   ));
 
   /// **GET Request**

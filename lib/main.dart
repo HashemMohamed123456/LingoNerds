@@ -1,6 +1,4 @@
 import 'package:bloc/bloc.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:just_audio/just_audio.dart';
@@ -11,6 +9,7 @@ import 'package:lingonerds/pronunciation/AudioRecord/view_model/fluentme_viewMod
 import 'package:lingonerds/pronunciation/AudioRecord/view_model/record_cubit.dart';
 import 'package:lingonerds/pronunciation/AudioRecord/view_model/viewModel/cubits/VoiceCubit.dart';
 import 'package:lingonerds/pronunciation/Data/Repo/VoiceAnalysisRepoImpl.dart';
+import 'package:lingonerds/theNerd/core/di/di.dart';
 import 'package:lingonerds/view_model/data/bloc/bloc_observer.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:lingonerds/view_model/data/bloc/cubit/auth/auth_cubit.dart';
@@ -33,6 +32,7 @@ Future<void> main() async {
       url: 'https://lfqdlpvjbhhagoscgzum.supabase.co', // from your Supabase dashboard
       anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxmcWRscHZqYmhoYWdvc2NnenVtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQ1OTI2MjQsImV4cCI6MjA2MDE2ODYyNH0.Y2ewF3u1Q27wS1iP4qyYE68h9smN8EyoCWJTxNcSHbg'
   );
+  await configureDependencies();
   runApp(const MyApp());
 }
 
@@ -60,7 +60,7 @@ class MyApp extends StatelessWidget {
           theme: AppThemes.lightTheme,
           themeMode: ThemeMode.light,
           onGenerateRoute: GenerateRoute.onGenerateRoute,
-          initialRoute: ScreensRoutes.splashScreen,
+          initialRoute: ScreensRoutes.lingoChatScreen,
         ),
       ),
     );

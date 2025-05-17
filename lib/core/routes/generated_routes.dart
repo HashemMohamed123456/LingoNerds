@@ -5,6 +5,7 @@ import 'package:lingonerds/pronunciation/AudioRecord/view/PronunciationAnalyzer/
 import 'package:lingonerds/pronunciation/AudioRecord/view/PronunciationAnalyzer/RecordingScreen.dart';
 import 'package:lingonerds/pronunciation/AudioRecord/view/VoiceAnalysisView.dart';
 import 'package:lingonerds/pronunciation/AudioRecord/view/record_screen.dart';
+import 'package:lingonerds/theNerd/geminiteacher/presentation/widgets/chatscreenprovider.dart';
 import 'package:lingonerds/view/screens/dictionary/dictionary_screen.dart';
 import 'package:lingonerds/view/screens/editProfile/edit_profile_screen.dart';
 import 'package:lingonerds/view/screens/forgetPassword/forget_password_screen.dart';
@@ -57,6 +58,8 @@ class GenerateRoute {
       return MaterialPageRoute(builder: (context)=>Home());
     }else if(name==ScreensRoutes.practiceCategoriesScreen){
       return MaterialPageRoute(builder: (context)=>PracticeCategoriesScreen());
+    }else if(name==ScreensRoutes.lingoChatScreen){
+      return MaterialPageRoute(builder: (context)=>ChatScreenProvider());
     }else if(name==ScreensRoutes.practicesLevelsScreen){
       if (args is Map<String, dynamic>) {
         String practiceType = args['practiceType'] ?? 'Vocabulary Practice';

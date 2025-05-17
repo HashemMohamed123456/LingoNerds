@@ -128,13 +128,13 @@ class _FluentMeScreenBodyState extends State<FluentMeScreenBody> {
                       const SizedBox(height: 16),
                       Text(
                         'Your transcript:',
-                        style: AppThemes.lightTheme.textTheme.titleMedium,
+                        style: GoogleFonts.anton(color: AppThemes.yellowAppColor,fontSize: 25),
                       ),
-                      Text(result.overallResultData.userRecordingTranscript),
+                      Text(result.overallResultData.userRecordingTranscript,style: GoogleFonts.anton(color: AppThemes.blueAppColor,fontSize: 20),),
                       const SizedBox(height: 16),
                       Text(
                         'Words recognized: ${result.overallResultData.numberOfRecognizedWords}/${result.overallResultData.numberOfWordsInPost}',
-                        style: Theme.of(context).textTheme.bodyLarge,
+                        style: GoogleFonts.anton(color: Colors.white,fontSize: 20),
                       ),
                       const SizedBox(height: 16),
 
@@ -144,30 +144,36 @@ class _FluentMeScreenBodyState extends State<FluentMeScreenBody> {
                           return Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
-                              ElevatedButton(
-                                onPressed: () async {
-                                  try {
-                                    await context
-                                        .read<AudioPlayerCubit>()
-                                        .toggleAudio(recordState.filePath);
-                                  } catch (e) {
-                                    ScaffoldMessenger.of(context).showSnackBar(
-                                      SnackBar(content: Text('Playback failed: $e')),
-                                    );
-                                  }
-                                },
-                                child: Text(playerState is AudioPlayerPlaying
-                                    ? "Pause"
-                                    : "Play Recording"),
+                              Container(
+                                width: 170.w,
+                                child: ElevatedButtonCustom(
+                                  onPressed: () async {
+                                    try {
+                                      await context
+                                          .read<AudioPlayerCubit>()
+                                          .toggleAudio(recordState.filePath);
+                                    } catch (e) {
+                                      ScaffoldMessenger.of(context).showSnackBar(
+                                        SnackBar(content: Text('Playback failed: $e')),
+                                      );
+                                    }
+                                  },
+                                  buttonLabel: playerState is AudioPlayerPlaying
+                                      ? "Pause"
+                                      : "Play Recording",
+                                ),
                               ),
                               const SizedBox(width: 10),
                               if (playerState is AudioPlayerPlaying ||
                                   playerState is AudioPlayerPaused)
-                                ElevatedButton(
-                                  onPressed: () => context
-                                      .read<AudioPlayerCubit>()
-                                      .stopAudio(),
-                                  child: const Text("Stop"),
+                                Container(
+                                  width: 150.w,
+                                  child: ElevatedButtonCustom(
+                                    onPressed: () => context
+                                        .read<AudioPlayerCubit>()
+                                        .stopAudio(),
+                                    buttonLabel: "Stop",
+                                  ),
                                 ),
                             ],
                           );
@@ -191,16 +197,17 @@ class _FluentMeScreenBodyState extends State<FluentMeScreenBody> {
                             margin: const EdgeInsets.only(bottom: 8),
                             child: ListTile(
                               title: Text(word.word,style:GoogleFonts.anton(color: Colors.white,fontSize: 15.sp),),
-                              subtitle: Text('Speed: ${word.speed}'),
+                              subtitle: Text('Speed: ${word.speed}',style: GoogleFonts.anton(color: Colors.white,fontSize: 12.sp),),
                               trailing: Text(
                                 '${word.points.toStringAsFixed(1)}',
-                                style: TextStyle(
+                                style: GoogleFonts.anton(
                                   color: word.points > 70
                                       ? Colors.green
                                       : word.points > 40
                                       ? Colors.orange
                                       : Colors.red,
                                   fontWeight: FontWeight.bold,
+                                  fontSize: 20.sp
                                 ),
                               ),
                             ),
@@ -225,8 +232,12 @@ class _FluentMeScreenBodyState extends State<FluentMeScreenBody> {
                       ),
                       const SizedBox(height: 16),
                       ElevatedButtonCustom(
-                        onPressed: () =>
-                            context.read<RecordCubit>().startRecording(),
+                        onPressed: () {
+                          context.read<FluentMeCubit>().resetPronunciationScreen();
+                          context.read<RecordCubit>().resetRecord();
+                          context.read<AudioPlayerCubit>().stopAudio();
+                          context.read<RecordCubit>().startRecording();
+                          },
                         buttonLabel: "Record Again",
                       ),
                     ],

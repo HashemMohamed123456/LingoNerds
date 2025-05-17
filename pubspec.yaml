@@ -61,12 +61,18 @@ dependencies:
   supabase_flutter:
   dartz:
   file_picker: ^9.0.1  # To select audio files    permission_handler: ^11.0.1  # To request file permissions # To play the returned audio file
-  http: ^0.13.3
+  http: ^1.1.0
+  equatable: ^2.0.5
+  flutter_tts: ^3.6.3
+  get_it: ^7.6.4
+  injectable: ^2.4.4
+  google_generative_ai: ^0.4.0  # Updated to latest version
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  build_runner: ^2.4.13
+  injectable_generator: ^2.4.4
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your

@@ -4,6 +4,7 @@ import 'package:file_picker/file_picker.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:lingonerds/view/widgets/elevated_button_custom.dart';
+import 'package:lingonerds/view/widgets/progress_indicator_widget.dart';
 
 import '../../../core/themes/app_themes.dart';
 import '../view_model/viewModel/cubits/VoiceCubit.dart';
@@ -40,7 +41,6 @@ class _VoiceScreenState extends State<VoiceScreen> {
       context.read<VoiceCubit>().analyzeVoice(filePath);
     }
   }
-
   Future<void> _playAudio(String url) async {
     if (url.isEmpty) {
       print("Error: Audio URL is empty");
@@ -48,9 +48,9 @@ class _VoiceScreenState extends State<VoiceScreen> {
     }
 
     try {
-      await _audioPlayer.setUrl(url); // Load URL
-      await _audioPlayer.play(); // Play audio
-      setState(() => isPlaying = true);
+      await _audioPlayer.setUrl(url);
+      await _audioPlayer.play();
+      // No need to call setState here!
     } catch (e) {
       print("Error playing audio: $e");
     }
@@ -58,8 +58,9 @@ class _VoiceScreenState extends State<VoiceScreen> {
 
   Future<void> _stopAudio() async {
     await _audioPlayer.stop();
-    setState(() => isPlaying = false);
+    // No need to call setState here!
   }
+
 
   @override
   void dispose() {
@@ -83,27 +84,43 @@ class _VoiceScreenState extends State<VoiceScreen> {
                 listener: (context, state) {},
                 builder: (context, state) {
                   if (state is VoiceLoading) {
-                    return const CircularProgressIndicator();
+                    return ProgressIndicatorClass.constructProgressIndicator();
                   } else if (state is VoiceSuccess) {
                     String audioUrl = state.response['audio_feedback_url'].trim();
                     print("Trying to play audio from: $audioUrl");
-      
+
                     return Expanded(
                       child: Padding(
                         padding: const EdgeInsets.all(15.0),
                         child: Column(
                           children: [
-                            Text("Your Phrase: ${state.response['original_text']}"),
+                            Text("Your Phrase: ${state.response['original_text']}",style:AppThemes.lightTheme.textTheme.titleMedium ,),
                             Padding(
                       padding: EdgeInsets.only(top: 50),
-                                child: Text("Fixed Phrase  ${state.response['corrected_text']}")
+                                child: Text("Fixed Phrase  ${state.response['corrected_text']}",style: AppThemes.lightTheme.textTheme.titleMedium,)
                             ),
-                            const SizedBox(height: 10),
-                            Spacer(),
-                            ElevatedButtonCustom(
-                              onPressed: isPlaying ? _stopAudio : () => _playAudio(audioUrl),
-                              buttonLabel: isPlaying ? "Reset" : "Play Corrected Audio",
+                             SizedBox(height: 50.h),
+                            StreamBuilder<PlayerState>(
+                              stream: _audioPlayer.playerStateStream,
+                              builder: (context, snapshot) {
+                                final playerState = snapshot.data;
+                                final playing = playerState?.playing ?? false;
+
+                                return ElevatedButtonCustom(
+                                  onPressed: () {
+                                    if (playing) {
+                                      _stopAudio(); // If already playing => stop it
+                                    } else {
+                                      _playAudio(audioUrl); // If not playing => start playing
+                                    }
+                                  },
+                                  buttonLabel: playing ? "Reset" : "Play Corrected Audio",
+                                );
+                              },
                             ),
+
+
+
                           ],
                         ),
                       ),

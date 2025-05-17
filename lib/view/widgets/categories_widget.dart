@@ -9,12 +9,14 @@ class CategoriesWidget extends StatelessWidget {
     this.categoryTitle,
     this.categoryImage,
     this.onPressed,
-    this.categoryModel
+    this.categoryModel,
+    this.onTap
   });
 final String? categoryTitle;
 final String? categoryImage;
 final void Function()? onPressed;
 final CategoryModel? categoryModel;
+final void Function()? onTap;
   @override
   Widget build(BuildContext context) {
     return  Container(
@@ -28,8 +30,11 @@ final CategoryModel? categoryModel;
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            Image.asset(categoryModel?.image??"",
-              fit: BoxFit.cover,width: 132.w,),
+            InkWell(
+              onTap: onTap,
+              child: Image.asset(categoryModel?.image??"",
+                fit: BoxFit.cover,width: 132.w,),
+            ),
             SizedBox(height: 20.h,),
             Expanded(
               child: TextButton(onPressed:onPressed, child: Text(categoryModel?.categoryTitle??"",style: GoogleFonts.anton(

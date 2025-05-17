@@ -19,4 +19,5 @@ class ScreensRoutes{
   static const String editProfileScreenRoute='EditProfileScreenRoute';
   static const String practiceScreenRoute='VocabularyScreenRoute';
   static const String voiceAnalysisScreenRoute='VoiceAnalysisScreenRoute';
+  static const String lingoChatScreen='lingoChatScreenView';
 }
